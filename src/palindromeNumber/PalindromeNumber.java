@@ -1,3 +1,5 @@
+package palindromeNumber;
+
 /**
  * Create by IntelliJ IDEA.
  * Author: EricJin
@@ -5,12 +7,7 @@
  */
 public class PalindromeNumber {
 
-    public static void main(String[] args) {
-        System.out.println(isPalindrome(11011));
-        System.out.println(isPalindrome_Modify(1110111));
-    }
-
-    private static boolean isPalindrome(int x) {
+    public boolean isPalindrome(int x) {
         boolean isPalindrome = false;
         if (x >= 0 && x < 10) {
             isPalindrome = true;
@@ -32,7 +29,7 @@ public class PalindromeNumber {
     }
 
     //Revert half of the number
-    private static boolean isPalindrome_Modify(int x) {
+    public static boolean isPalindrome_Modify(int x) {
 
         if(x < 0 || (x % 10 == 0 && x != 0)) {
             return false;
