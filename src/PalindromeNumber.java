@@ -33,7 +33,7 @@ public class PalindromeNumber {
 
     //Revert half of the number
     private static boolean isPalindrome_Modify(int x) {
-        
+
         if(x < 0 || (x % 10 == 0 && x != 0)) {
             return false;
         }
