@@ -19,5 +19,6 @@ public class TwoSumTest {
         int[] arr = new int[]{3,7,9,22};
         int target = 12;
         assertEquals(Arrays.toString(new int[]{0,2}), Arrays.toString(solution.twoSum(arr,target)));
+        assertEquals(Arrays.toString(new int[]{0,2}), Arrays.toString(solution.twoSum_hashtable(arr,target)));
     }
 }
