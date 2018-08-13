@@ -1,4 +1,4 @@
-package RomanToInteger;
+package romanToInteger;
 
 import org.junit.Test;
 

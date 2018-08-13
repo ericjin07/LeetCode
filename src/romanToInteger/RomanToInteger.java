@@ -1,4 +1,4 @@
-package RomanToInteger;
+package romanToInteger;
 
 /**
  * Create by IntelliJ IDEA.

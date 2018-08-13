@@ -10,7 +10,7 @@
 |:--:|:-----|:--------:|:---------:|
 |1|[Two Sum](https://leetcode.com/problems/two-sum/description/)|[Java](./src/twoSum/TwoSum.java)|Easy|
 |2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/)|[Java](./src/addTwoNumbers/AddTwoNumbers.java)|Medium|
-|3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/)|[Java](./src/LongestSubstring/LongestSubstring.java)|Medium|
+|3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/)|[Java](src/longestSubstring/LongestSubstring.java)|Medium|
 |9|[Palindrome Number](https://leetcode.com/problems/palindrome-number/description/)|[Java](./src/palindromeNumber/PalindromeNumber.java)|Easy|
-|13||[Roman To Integer](https://leetcode.com/problems/roman-to-integer/description/)|[Java](./src/RomanToInteger/RomanToInteger.java)|Easy|
+|13||[Roman To Integer](https://leetcode.com/problems/roman-to-integer/description/)|[Java](src/romanToInteger/RomanToInteger.java)|Easy|
 |14|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/description/)|[Java](./src/longestCommonPrefix/LongestCommonPrefix.java)|Easy|

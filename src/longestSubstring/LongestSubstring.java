@@ -1,4 +1,4 @@
-package LongestSubstring;
+package longestSubstring;
 
 /**
  * Create by IntelliJ IDEA.

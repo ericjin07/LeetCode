@@ -1,4 +1,4 @@
-package LongestSubstring;
+package longestSubstring;
 
 import org.junit.Test;
 
