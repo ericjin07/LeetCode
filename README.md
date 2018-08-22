@@ -14,3 +14,5 @@
 |9|[Palindrome Number](https://leetcode.com/problems/palindrome-number/description/)|[Java](./src/palindromeNumber/PalindromeNumber.java)|Easy|
 |13|[Roman To Integer](https://leetcode.com/problems/roman-to-integer/description/)|[Java](src/romanToInteger/RomanToInteger.java)|Easy|
 |14|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/description/)|[Java](./src/longestCommonPrefix/LongestCommonPrefix.java)|Easy|
+|20|[valid parentheses](https://leetcode.com/problems/valid-parentheses/description/)|[Java](./src/validParentheses/ValidParentheses.java)|Easy|
+|21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/)|[Java](./src/mergeTwoSortedLists/MergeTwoSortedLists.java)|Easy|
