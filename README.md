@@ -17,3 +17,5 @@
 |20|[valid parentheses](https://leetcode.com/problems/valid-parentheses/description/)|[Java](./src/validParentheses/ValidParentheses.java)|Easy|
 |21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/)|[Java](./src/mergeTwoSortedLists/MergeTwoSortedLists.java)|Easy|
 |26|[Remove Duplicates](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/)|[Java](./src/removeDuplicates/RemoveDuplicates.java)|Easy|
+|27|[Remove Element](https://leetcode.com/problems/remove-element/description/)|[Java](./src/removeElement/RemoveElement.java)|Easy|
+|26|[Implement Str](https://leetcode.com/problems/implement-strstr/description/)|[Java](./src/implementStrStr/ImplementStr.java)|Easy|
