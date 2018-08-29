@@ -18,4 +18,5 @@
 |21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/)|[Java](./src/mergeTwoSortedLists/MergeTwoSortedLists.java)|Easy|
 |26|[Remove Duplicates](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/)|[Java](./src/removeDuplicates/RemoveDuplicates.java)|Easy|
 |27|[Remove Element](https://leetcode.com/problems/remove-element/description/)|[Java](./src/removeElement/RemoveElement.java)|Easy|
-|26|[Implement Str](https://leetcode.com/problems/implement-strstr/description/)|[Java](./src/implementStrStr/ImplementStr.java)|Easy|
+|28|[Implement Str](https://leetcode.com/problems/implement-strstr/description/)|[Java](./src/implementStrStr/ImplementStr.java)|Easy|
+|35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/description/)|[Java](./src/searchInsertPosition/SearchInsertPosition.java)|Easy|
