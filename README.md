@@ -20,3 +20,4 @@
 |27|[Remove Element](https://leetcode.com/problems/remove-element/description/)|[Java](./src/removeElement/RemoveElement.java)|Easy|
 |28|[Implement Str](https://leetcode.com/problems/implement-strstr/description/)|[Java](./src/implementStrStr/ImplementStr.java)|Easy|
 |35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/description/)|[Java](./src/searchInsertPosition/SearchInsertPosition.java)|Easy|
+|38|[Count and Say](https://leetcode.com/problems/count-and-say/description/)|[Java](./src/countAndSay/CountAndSay.java)|Easy|
