@@ -21,3 +21,4 @@
 |28|[Implement Str](https://leetcode.com/problems/implement-strstr/description/)|[Java](./src/implementStrStr/ImplementStr.java)|Easy|
 |35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/description/)|[Java](./src/searchInsertPosition/SearchInsertPosition.java)|Easy|
 |38|[Count and Say](https://leetcode.com/problems/count-and-say/description/)|[Java](./src/countAndSay/CountAndSay.java)|Easy|
+|53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/)|[Java](./src/maximumSubarray/MaximumSubarray.java)|Easy|
