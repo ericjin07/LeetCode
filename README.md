@@ -24,3 +24,4 @@
 |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/)|[Java](./src/maximumSubarray/MaximumSubarray.java)|Easy|
 |58|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/description/)|[Java](./src/lengthOfLastWord/LengthOfLastWord.java)|Easy|
 |66|[Plus One](https://leetcode.com/problems/plus-one/description/)|[Java](./src/plusOne/PlusOne.java)|Easy|
+|67|[Add Binary](https://leetcode.com/problems/add-binary/description/)|[Java](./src/addbinary/AddBinary.java)|Easy|
