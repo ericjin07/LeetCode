@@ -25,3 +25,7 @@
 |58|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/description/)|[Java](./src/lengthOfLastWord/LengthOfLastWord.java)|Easy|
 |66|[Plus One](https://leetcode.com/problems/plus-one/description/)|[Java](./src/plusOne/PlusOne.java)|Easy|
 |67|[Add Binary](https://leetcode.com/problems/add-binary/description/)|[Java](./src/addbinary/AddBinary.java)|Easy|
+|67|[Add Binary](https://leetcode.com/problems/add-binary/description/)|[Java](./src/addbinary/AddBinary.java)|Easy|
+|69|[Sqrt(x)](https://leetcode.com/problems/sqrtx/description/)|[Java](./src/sqrtofx/SqrtOfX.java)|Easy*|
+|70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/)|[Java](./src/climbingStairs/ClimbingStairs.java)|Easy*|
+|83|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/)|[Java](./src/removeDuplicatesfromSortedList/RemoveDuplicatesfromSortedList.java)|Easy|
