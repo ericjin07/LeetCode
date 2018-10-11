@@ -12,7 +12,7 @@ import static org.junit.Assert.*;
  */
 public class TraverseBiTreeTest {
     private BiTreeNode root;
-
+    private BiTreeNode createNode = new BiTreeNode();
 
     @Before
     public void setUp(){
@@ -51,5 +51,16 @@ public class TraverseBiTreeTest {
     @Test
     public void inOrderTraverse() {
         TraverseBiTree.inOrderTraverse(root);
+    }
+
+    @Test
+    public void postOrderTraverse() {
+        TraverseBiTree.postOrderTraverse(root);
+    }
+
+    @Test
+    public void createBiTree() {
+        TraverseBiTree.createBiTree(createNode);
+        TraverseBiTree.preOrderTraverse(createNode);
     }
 }

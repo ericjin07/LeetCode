@@ -13,4 +13,7 @@ public class BiTreeNode {
     public BiTreeNode(String data) {
         this.data = data;
     }
+
+    public BiTreeNode() {
+    }
 }
