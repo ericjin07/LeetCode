@@ -29,3 +29,6 @@
 |69|[Sqrt(x)](https://leetcode.com/problems/sqrtx/description/)|[Java](./src/sqrtofx/SqrtOfX.java)|Easy*|
 |70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/)|[Java](./src/climbingStairs/ClimbingStairs.java)|Easy*|
 |83|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/)|[Java](./src/removeDuplicatesfromSortedList/RemoveDuplicatesfromSortedList.java)|Easy|
+|88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/)|[Java](./src/mergeSortedArray/MergeSortedArray.java)|Easy|
+|100|[Same Tree](https://leetcode.com/problems/same-tree/description/)|[Java](./src/sameTree/SameTree.java)|Easy|
+|101|[Symmetric Tree](https://leetcode.com/problems/symmetric-tree/description/)|[Java](./src/symmetricTree/SymmetricTree.java)|Easy|
