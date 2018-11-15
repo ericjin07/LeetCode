@@ -32,3 +32,4 @@
 |88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/)|[Java](./src/mergeSortedArray/MergeSortedArray.java)|Easy|
 |100|[Same Tree](https://leetcode.com/problems/same-tree/description/)|[Java](./src/sameTree/SameTree.java)|Easy|
 |101|[Symmetric Tree](https://leetcode.com/problems/symmetric-tree/description/)|[Java](./src/symmetricTree/SymmetricTree.java)|Easy|
+|104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/)|[Java](./src/symmetricTree/SymmetricTree.java)|Easy|
