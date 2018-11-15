@@ -26,10 +26,11 @@
 |66|[Plus One](https://leetcode.com/problems/plus-one/description/)|[Java](./src/plusOne/PlusOne.java)|Easy|
 |67|[Add Binary](https://leetcode.com/problems/add-binary/description/)|[Java](./src/addbinary/AddBinary.java)|Easy|
 |67|[Add Binary](https://leetcode.com/problems/add-binary/description/)|[Java](./src/addbinary/AddBinary.java)|Easy|
-|69|[Sqrt(x)](https://leetcode.com/problems/sqrtx/description/)|[Java](./src/sqrtofx/SqrtOfX.java)|Easy*|
-|70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/)|[Java](./src/climbingStairs/ClimbingStairs.java)|Easy*|
+|69|[Sqrt(x)](https://leetcode.com/problems/sqrtx/description/)|[Java](./src/sqrtofx/SqrtOfX.java)|Easy|
+|70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/)|[Java](./src/climbingStairs/ClimbingStairs.java)|Easy|
 |83|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/)|[Java](./src/removeDuplicatesfromSortedList/RemoveDuplicatesfromSortedList.java)|Easy|
 |88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/)|[Java](./src/mergeSortedArray/MergeSortedArray.java)|Easy|
 |100|[Same Tree](https://leetcode.com/problems/same-tree/description/)|[Java](./src/sameTree/SameTree.java)|Easy|
 |101|[Symmetric Tree](https://leetcode.com/problems/symmetric-tree/description/)|[Java](./src/symmetricTree/SymmetricTree.java)|Easy|
-|104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/)|[Java](./src/symmetricTree/SymmetricTree.java)|Easy|
+|104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/)|[Java](./src/maximumDepthofBinaryTree/MaximumDepthofBinaryTree.java)|Easy|
+|107|[Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/description/)|[Java](./src/binaryTreeLevelOrderTraversal_2/BinaryTreeLevelOrderTraversal.java)|Easy|
