@@ -29,13 +29,13 @@ public class BinaryTreeLevelOrderTraversal {
 
     //Breath-First-Search   queue
     public List<List<Integer>> levelOrderBottom(TreeNode root) {
-        LinkedList<List<Integer>> result = new LinkedList<>();
+        LinkedList<List<Integer>> result = new LinkedList<>();      //need to insert to the first , so  use LinkedList
         if (root == null)
             return result;
         Queue<TreeNode> queue = new LinkedList<>();
         queue.add(root);
         while (!queue.isEmpty()){
-            List<Integer> levelTree = new ArrayList<>();
+            List<Integer> levelTree = new LinkedList<>();       //need to add val ,so use LinkedList
             int size = queue.size();
             for (int i=0; i < size; i++){
                 TreeNode node = queue.remove();
