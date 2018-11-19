@@ -35,3 +35,4 @@
 |104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/)|[Java](./src/maximumDepthofBinaryTree/MaximumDepthofBinaryTree.java)|Easy|
 |107|[Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/description/)|[Java](./src/binaryTreeLevelOrderTraversal_2/BinaryTreeLevelOrderTraversal.java)|Easy|
 |108|[Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/description/)|[Java](./src/convertSortedArraytoBinarSearchTree/ConvertSortedArraytoBinarySearchTree.java)|Easy|
+|110|[Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/description/)|[Java](./src/balancedBinaryTree/BalancedBinaryTree.java)|Easy|
