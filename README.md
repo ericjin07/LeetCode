@@ -37,3 +37,5 @@
 |110|[Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/description/)|[Java](src/tree/balancedBinaryTree/BalancedBinaryTree.java)|Easy|
 |111|[Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)|[Java](src/tree/minimumDepthofBinaryTree/MinimumDepthofBinaryTree.java)|Easy|
 |112|[Path Sum](https://leetcode.com/problems/path-sum/description/)|[Java](src/tree/pathSum/PathSum.java)|Easy|
+|118|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/description/)|[Java](src/array/pascalTriangle/PascalTriangle.java)|Easy|
+|119|[119. Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/description/)|[Java](src/array/pascalTriangle/PascalTriangle_2.java)|Easy|
