@@ -5,6 +5,11 @@ package datastructure;
  * Author: EricJin
  * Date: 10/08/2018 11:17 AM
  */
+
+/**
+ * 要写出没有bug的循环队列，最重要的是判断<e>队空<e/>和<e>队满</e>
+ * @param <E>
+ */
 public class CycleQueue<E> {
 
     private Object item[];
