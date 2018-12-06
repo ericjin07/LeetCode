@@ -41,3 +41,4 @@
 |119|[Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/description/)|[Java](src/array/pascalTriangle/PascalTriangle_2.java)|Easy|
 |121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/)|[Java](src/array/bestTimetoBuyandSellStock/BestTimetoBuyandSellStock.java)|Easy|
 |122|[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/)|[Java](src/array/bestTimetoBuyandSellStock/BestTimetoBuyandSellStock_2.java)|Easy|
+|125|[125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)|[Java](src/string/validPalindrome/ValidPalindromeTest.java)|Easy|
