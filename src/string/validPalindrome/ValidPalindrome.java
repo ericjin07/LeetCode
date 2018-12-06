@@ -22,6 +22,11 @@ package string.validPalindrome;
  */
 public class ValidPalindrome {
 
+    /**
+     * 前后两个指针，前指针比后指针小，调过非数字字母，然后大小写非敏感比较
+     * @param s
+     * @return
+     */
     public boolean isPalindrome(String s) {
         int front = 0;
         int back = s.length() - 1;

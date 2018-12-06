@@ -12,7 +12,7 @@ import static org.junit.Assert.*;
  */
 public class ValidPalindromeTest {
 
-    ValidPalindrome vp ;
+    private ValidPalindrome vp ;
     @Before
     public void set(){
         vp = new ValidPalindrome();
