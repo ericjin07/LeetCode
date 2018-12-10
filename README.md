@@ -43,3 +43,4 @@
 |122|[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/)|[Java](src/array/bestTimetoBuyandSellStock/BestTimetoBuyandSellStock_2.java)|Easy|
 |125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)|[Java](src/string/validPalindrome/ValidPalindromeTest.java)|Easy|
 |136|[Single Number](https://leetcode.com/problems/single-number/)|[Java](src/hashtable/SingleNumber.java)|Easy|
+|141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)|[Java](src/linkedList/LinkedListCycle)|Easy|
