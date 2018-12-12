@@ -45,3 +45,4 @@
 |136|[Single Number](https://leetcode.com/problems/single-number/)|[Java](src/hashtable/SingleNumber.java)|Easy|
 |141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)|[Java](src/linkedList/LinkedListCycle/LinkedListCycle.java)|Easy|
 |155|[Min Stack](https://leetcode.com/problems/min-stack/)|[Java](src/stack/MinStack.java)|Easy|
+|160|[Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)|[Java](src/linkedList/intersectionofTwoLinkedLists/IntersectionofTwoLinkedLists.java)|Easy|
