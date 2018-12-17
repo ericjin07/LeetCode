@@ -46,3 +46,5 @@
 |141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)|[Java](src/linkedList/LinkedListCycle/LinkedListCycle.java)|Easy|
 |155|[Min Stack](https://leetcode.com/problems/min-stack/)|[Java](src/stack/MinStack.java)|Easy|
 |160|[Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)|[Java](src/linkedList/intersectionofTwoLinkedLists/IntersectionofTwoLinkedLists.java)|Easy|
+|167|[Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)|[Java](src/array/twoSum2/TwoSum2.java)|Easy|
+|168|[Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/)|[Java](src/math/excelSheetColumnTitle/ExcelSheetColumnTitle.java)|Easy|
