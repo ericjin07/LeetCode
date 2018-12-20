@@ -50,3 +50,4 @@
 |168|[Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/)|[Java](src/math/excelSheetColumnTitle/ExcelSheetColumnTitle.java)|Easy|
 |169|[Majority Element](https://leetcode.com/problems/majority-element/)|[Java](src/array/majorityElement/MajorityElement.java)|Easy|
 |171|[Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/)|[Java](src/math/excelSheetColumnNumber/ExcelSheetColumnNumber.java)|Easy|
+|172|[Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/)|[Java](src/math/factorialTrailingZeroes/FactorialTrailingZeroes.java)|Easy|
