@@ -32,6 +32,12 @@ package array.thirdMaximumNumber;
  */
 public class ThirdMaximumNumber {
 
+    /**
+     * 思路：三个数的指针，当数与三大数一直，继续遍历，不一致，大于谁就替换谁，小的接上。
+     * 最后比较第三大的数的值  如果是包装类，不为空就是有值，   如果是long类型，不为long 的最小值即为有值
+     * @param nums
+     * @return
+     */
     public int thirdMax(int[] nums) {
         if (nums == null)
             return -1;
