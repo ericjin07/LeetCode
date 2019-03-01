@@ -45,17 +45,13 @@ package array.removeDuplicates;
 public class RemoveDuplicates {
 
     public int removeDuplicates(int[] nums) {
-        int index = 1;
-        int comp = nums[0];
-        for (int i=1;i<nums.length; i++) {
-           if (nums[i] == comp) {
+       int left = 0;
+       int len = nums.length;
+       for(int i = 1 ; i<len; i++){
+           if (nums[left] == nums[i])
                continue;
-           }else {
-               comp = nums[i];
-               nums[index] = nums[i];
-               index++;
-           }
-        }
-        return index;
+           nums[++left] = nums[i];
+       }
+       return left + 1;
     }
 }

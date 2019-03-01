@@ -49,4 +49,5 @@ public class TwoSum {
 
         throw new IllegalArgumentException("No tow sum solution");
     }
+
 }

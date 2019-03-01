@@ -13,7 +13,8 @@ public class RemoveElementTest {
 
     @Test
     public void removeElement() {
-        RemoveElement solution = new RemoveElement();
+//        RemoveElement solution = new RemoveElement();
+        RemoveElement_2 solution = new RemoveElement_2();
         int[] nums;
         nums = new int[]{3,2,2,3};
         assertEquals(2,solution.removeElement(nums,3));

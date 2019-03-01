@@ -51,3 +51,9 @@
 |169|[Majority Element](https://leetcode.com/problems/majority-element/)|[Java](src/array/majorityElement/MajorityElement.java)|Easy|
 |171|[Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/)|[Java](src/math/excelSheetColumnNumber/ExcelSheetColumnNumber.java)|Easy|
 |172|[Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/)|[Java](src/math/factorialTrailingZeroes/FactorialTrailingZeroes.java)|Easy|
+|189|[Rotate Array](https://leetcode.com/problems/rotate-array/)|[Java](src/array/rotateArray/RotateArray.java)|Easy|
+|217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|[Java](src/array/containsDuplicate/ContainsDuplicate.java)|Easy|
+|219|[Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii)|[Java](src/array/containsDuplicate2/ContainsDuplicate.java)|Easy|
+|268|[Missing Number](https://leetcode.com/problems/missing-number/)|[Java](src/array/MissingNumber/MissingNumber.java)|Easy|
+|283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/)|[Java](src/array/moveZeroes/MoveZeroes.java)|Easy|
+|414|[Third Maximum Number](https://leetcode.com/problems/third-maximum-number/)|[Java](src/array/thirdMaximumNumber/ThirdMaximumNumber.java)|Easy|
