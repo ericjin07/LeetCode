@@ -1,3 +1,7 @@
+package array.fibonacciNumber;
+
+import org.junit.Test;
+
 import static org.junit.Assert.*;
 
 /**
@@ -7,4 +11,10 @@ import static org.junit.Assert.*;
  */
 public class FibonacciNumberTest {
 
+    @Test
+    public void fib() {
+        FibonacciNumber solution = new FibonacciNumber();
+        assertEquals(3,solution.fib(4));
+        assertEquals(3,solution.fib_arr(4));
+    }
 }

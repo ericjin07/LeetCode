@@ -1,3 +1,9 @@
+package array.findAllNumbersDisappearedArray;
+
+import org.junit.Test;
+
+import java.util.List;
+
 import static org.junit.Assert.*;
 
 /**
@@ -7,4 +13,11 @@ import static org.junit.Assert.*;
  */
 public class FindAllNumbersDisappearedArrayTest {
 
+    @Test
+    public void findDisappearedNumbers() {
+        FindAllNumbersDisappearedArray solution = new FindAllNumbersDisappearedArray();
+        int[] nums = new int[]{4,2,3,7,8,2,3,1};
+        List<Integer> list = solution.findDisappearedNumbers(nums);
+        System.out.println(list);
+    }
 }

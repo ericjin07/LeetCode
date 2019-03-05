@@ -57,3 +57,7 @@
 |268|[Missing Number](https://leetcode.com/problems/missing-number/)|[Java](src/array/MissingNumber/MissingNumber.java)|Easy|
 |283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/)|[Java](src/array/moveZeroes/MoveZeroes.java)|Easy|
 |414|[Third Maximum Number](https://leetcode.com/problems/third-maximum-number/)|[Java](src/array/thirdMaximumNumber/ThirdMaximumNumber.java)|Easy|
+|448|[Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)|[Java](src/array/findAllNumbersDisappearedArray/FindAllNumbersDisappearedArray.java)|Easy|
+|485|[Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/)|[Java](src/array/maxConsecutiveOnes/MaxConsecutiveOnes.java)|Easy|
+|509|[Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)|[Java](src/array/fibonacciNumber/FibonacciNumber.java)|Easy|
+|532|[K-diff Pairs in an Array](https://leetcode.com/problems/k-diff-pairs-in-an-array/)|[Java](src/array/kdiffPairsinanArray/KdiffPairsinanArray.java)|Easy|
