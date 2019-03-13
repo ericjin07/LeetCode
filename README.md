@@ -61,3 +61,6 @@
 |485|[Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/)|[Java](src/array/maxConsecutiveOnes/MaxConsecutiveOnes.java)|Easy|
 |509|[Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)|[Java](src/array/fibonacciNumber/FibonacciNumber.java)|Easy|
 |532|[K-diff Pairs in an Array](https://leetcode.com/problems/k-diff-pairs-in-an-array/)|[Java](src/array/kdiffPairsinanArray/KdiffPairsinanArray.java)|Easy|
+|561|[Array Partition I](https://leetcode.com/problems/array-partition-i/)|[Java](src/array/arrayPartition_1/ArrayPartition_1.java)|Easy|
+|566|[K-diff Pairs in an Array](https://leetcode.com/problems/reshape-the-matrix/)|[Java](src/array/reshapetheMatrix/ReshapetheMatrix.java)|Easy|
+|581|[Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/)|[Java](src/array/shortestUnsortedContinuousSubarray/ShortestUnsortedContinuousSubarray.java)|Easy|
