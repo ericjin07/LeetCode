@@ -1,6 +1,7 @@
-package string.validParentheses;
+package stack.validParenthese;
 
 import org.junit.Test;
+import stack.validParenthese.ValidParenthese;
 
 import static org.junit.Assert.*;
 
@@ -13,7 +14,7 @@ public class ValidParenthesesTest {
 
     @Test
     public void isValid() {
-        ValidParentheses solution = new ValidParentheses();
+        ValidParenthese solution = new ValidParenthese();
 
         String s1 = "()";
         String s2 = "()[]{}";

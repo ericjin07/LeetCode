@@ -1,4 +1,4 @@
-package stack;
+package stack.minStack;
 
 /**
  * Create by IntelliJ IDEA.

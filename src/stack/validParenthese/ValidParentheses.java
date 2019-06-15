@@ -1,4 +1,4 @@
-package string.validParentheses;
+package stack.validParenthese;
 
 /**
  * Create by IntelliJ IDEA.
