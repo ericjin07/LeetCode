@@ -20,7 +20,12 @@ public class MyStack {
 
     /** Push element x onto stack. */
     public void push(int x) {
-        queue.offer(x);
+        queue.add(x);
+        int size = queue.size();
+        while (size > 1) {
+            queue.add(queue.poll());
+            size--;
+        }
     }
 
     /** Removes the element on top of the stack and returns that element. */
@@ -32,7 +37,9 @@ public class MyStack {
 
     /** Get the top element. */
     public int top() {
-        return queue.peek();
+        if (queue.peek() != null) {
+            return queue.peek();
+        } else throw new NoSuchElementException();
     }
 
     /** Returns whether the stack is empty. */
