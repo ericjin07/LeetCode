@@ -31,4 +31,32 @@ public class MaximumSubarray {
         }
         return globalMax;
     }
+
+    public int maxSubArray_divide_conquer(int[] nums) {
+        return maxSubHelper(nums, 0, nums.length - 1);
+    }
+
+    private int maxSubHelper(int[] nums, int left, int right) {
+        if (left == right) return nums[left];
+        int mid = (left + right) / 2;
+        int leftMax = maxSubHelper(nums, left, mid);
+        int rightMax = maxSubHelper(nums, mid + 1, right);
+        int crossMax = maxCross(nums, left, mid, right);
+        return Math.max(Math.max(leftMax, rightMax), crossMax);
+    }
+
+    private int maxCross(int[] nums, int left, int mid, int right) {
+        int tmp = nums[mid], leftMax = nums[mid], rightMax = nums[mid+1];
+        for (int i = mid - 1; i >= left ; i--) {
+            tmp += nums[i];
+            if (tmp > leftMax) leftMax = tmp;
+        }
+
+        tmp = nums[mid + 1];
+        for (int i = mid + 2; i <= right; i++) {
+            tmp += nums[i];
+            if (tmp > rightMax) rightMax = tmp;
+        }
+        return leftMax + rightMax;
+    }
 }
