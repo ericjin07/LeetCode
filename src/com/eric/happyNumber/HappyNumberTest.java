@@ -1,4 +1,4 @@
-package ericjin.happyNumber;
+package com.eric.happyNumber;
 
 import org.junit.Test;
 

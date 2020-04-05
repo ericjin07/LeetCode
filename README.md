@@ -14,7 +14,8 @@
 |9|[Palindrome Number](https://leetcode.com/problems/palindrome-number/description/)|[Java](src/math/palindromeNumber/PalindromeNumber.java)|Easy|
 |13|[Roman To Integer](https://leetcode.com/problems/roman-to-integer/description/)|[Java](src/string/romanToInteger/RomanToInteger.java)|Easy|
 |14|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/description/)|[Java](src/string/longestCommonPrefix/LongestCommonPrefix.java)|Easy|
-|20|[valid parentheses](https://leetcode.com/problems/valid-parentheses/description/)|[Java](src/string/validParentheses/ValidParentheses.java)|Easy|
+|16|[3 Sum Closest](https://leetcode.com/problems/3sum-closest/)|[Java](src/com/eric/ThreeSumClosest.java)|Easy|
+|20|[valid parentheses](https://leetcode.com/problems/valid-parentheses/description/)|[Java](src/stack/validParenthese/ValidParentheses.java)|Easy|
 |21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/)|[Java](src/linkedList/mergeTwoSortedLists/MergeTwoSortedLists.java)|Easy|
 |26|[Remove Duplicates](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/)|[Java](src/array/removeDuplicates/RemoveDuplicates.java)|Easy|
 |27|[Remove Element](https://leetcode.com/problems/remove-element/description/)|[Java](src/array/removeElement/RemoveElement.java)|Easy|
@@ -30,7 +31,7 @@
 |83|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/)|[Java](src/linkedList/removeDuplicatesfromSortedList/RemoveDuplicatesfromSortedList.java)|Easy|
 |88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/)|[Java](src/array/mergeSortedArray/MergeSortedArray.java)|Easy|
 |100|[Same Tree](https://leetcode.com/problems/same-tree/description/)|[Java](src/tree/sameTree/SameTree.java)|Easy|
-|101|[Symmetric Tree](https://leetcode.com/problems/symmetric-tree/description/)|[Java](src/tree/SymmetricTree.java)|Easy|
+|101|[Symmetric Tree](https://leetcode.com/problems/symmetric-tree/description/)|[Java](src/tree/symmetricTree/SymmetricTree.java)|Easy|
 |104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/)|[Java](src/tree/maximumDepthofBinaryTree/MaximumDepthofBinaryTree.java)|Easy|
 |107|[Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/description/)|[Java](src/tree/binaryTreeLevelOrderTraversal_2/BinaryTreeLevelOrderTraversal.java)|Easy|
 |108|[Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/description/)|[Java](src/tree/convertSortedArraytoBinarSearchTree/ConvertSortedArraytoBinarySearchTree.java)|Easy|
@@ -40,11 +41,11 @@
 |118|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/description/)|[Java](src/array/pascalTriangle/PascalTriangle.java)|Easy|
 |119|[Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/description/)|[Java](src/array/pascalTriangle/PascalTriangle_2.java)|Easy|
 |121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/)|[Java](src/array/bestTimetoBuyandSellStock/BestTimetoBuyandSellStock.java)|Easy|
-|122|[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/)|[Java](src/array/bestTimetoBuyandSellStock/BestTimetoBuyandSellStock_2.java)|Easy|
+|122|[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/)|[Java](src/array/bestTimetoBuyandSellStock_2/BestTimetoBuyandSellStock_2.java)|Easy|
 |125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)|[Java](src/string/validPalindrome/ValidPalindromeTest.java)|Easy|
 |136|[Single Number](https://leetcode.com/problems/single-number/)|[Java](src/hashtable/SingleNumber.java)|Easy|
 |141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)|[Java](src/linkedList/LinkedListCycle/LinkedListCycle.java)|Easy|
-|155|[Min Stack](https://leetcode.com/problems/min-stack/)|[Java](src/stack/MinStack.java)|Easy|
+|155|[Min Stack](https://leetcode.com/problems/min-stack/)|[Java](src/stack/minStack/MinStack.java)|Easy|
 |160|[Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)|[Java](src/linkedList/intersectionofTwoLinkedLists/IntersectionofTwoLinkedLists.java)|Easy|
 |167|[Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)|[Java](src/array/twoSum2/TwoSum2.java)|Easy|
 |168|[Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/)|[Java](src/math/excelSheetColumnTitle/ExcelSheetColumnTitle.java)|Easy|
@@ -52,6 +53,7 @@
 |171|[Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/)|[Java](src/math/excelSheetColumnNumber/ExcelSheetColumnNumber.java)|Easy|
 |172|[Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/)|[Java](src/math/factorialTrailingZeroes/FactorialTrailingZeroes.java)|Easy|
 |189|[Rotate Array](https://leetcode.com/problems/rotate-array/)|[Java](src/array/rotateArray/RotateArray.java)|Easy|
+|202|[Happy Number](https://leetcode.com/problems/happy-number/)|[Java](src/com/eric/happyNumber/HappyNumber.java)|Easy|
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|[Java](src/array/containsDuplicate/ContainsDuplicate.java)|Easy|
 |219|[Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii)|[Java](src/array/containsDuplicate2/ContainsDuplicate.java)|Easy|
 |268|[Missing Number](https://leetcode.com/problems/missing-number/)|[Java](src/array/MissingNumber/MissingNumber.java)|Easy|
@@ -65,3 +67,35 @@
 |566|[K-diff Pairs in an Array](https://leetcode.com/problems/reshape-the-matrix/)|[Java](src/array/reshapetheMatrix/ReshapetheMatrix.java)|Easy|
 |581|[Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/)|[Java](src/array/shortestUnsortedContinuousSubarray/ShortestUnsortedContinuousSubarray.java)|Easy|
 |605|[Can Place Flowers](https://leetcode.com/problems/can-place-flowers/)|[Java](src/array/canPlaceFlowers/CanPlaceFlowers.java)|Easy|
+|724|[Find Pivot Index](https://leetcode.com/problems/find-pivot-index/)|[Java](src/com/eric/FindPivotIndex.java)|Easy|
+|746|[Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)|[Java](src/com/eric/MinCostClimbingStairs.java)|Easy|
+|747|[Largest Number At Least Twice of Others](https://leetcode.com/problems/largest-number-at-least-twice-of-others/)|[Java](src/com/eric/LargestNumberAtLeastTwiceOfOthers.java)|Easy|
+|766|[Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix/)|[Java](src/com/eric/ToeplitzMatrix.java)|Easy|
+|830|[Positions of Large Groups](https://leetcode.com/problems/positions-of-large-groups/)|[Java](src/com/eric/PositionsOfLargeGroups.java)|Easy|
+|832|[Flipping an Image](https://leetcode.com/problems/flipping-an-image/)|[Java](src/com/eric/FlippingAnImage.java)|Easy|
+|840|[Magic Squares In Grid](https://leetcode.com/problems/magic-squares-in-grid/)|[Java](src/com/eric/MagicSquaresInGrid.java)|Easy|
+|849|[Maximize Distance to Closest Person](https://leetcode.com/problems/maximize-distance-to-closest-person/)|[Java](src/com/eric/MaximizeDistanceToClosestPerson.java)|Easy|
+|867|[Transpose Matrix](https://leetcode.com/problems/transpose-matrix/)|[Java](src/com/eric/TransposeMatrix.java)|Easy|
+|888|[Transpose Matrix](https://leetcode.com/problems/fair-candy-swap/)|[Java](src/com/eric/FairCandySwap.java)|Easy|
+|896|[Monotonic Array](https://leetcode.com/problems/monotonic-array/)|[Java](src/com/eric/MonotonicArray.java)|Easy|
+|905|[Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/)|[Java](src/com/eric/SortArrayByParity.java)|Easy|
+|914|[X of a Kind in a Deck of Cards](https://leetcode.com/problems/x-of-a-kind-in-a-deck-of-cards/)|[Java](src/com/eric/XOfAKindInADeckOfCards.java)|Easy|
+|922|[Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii/)|[Java](src/com/eric/SortArrayByParityIi.java)|Easy|
+|941|[Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/)|[Java](src/com/eric/ValidMountainArray.java)|Easy|
+|977|[Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)|[Java](src/com/eric/SquaresOfASortedArray.java)|Easy|
+|985|[Sum of Even Numbers After Queries](https://leetcode.com/problems/sum-of-even-numbers-after-queries/)|[Java](src/com/eric/SumOfEvenNumbersAfterQueries.java)|Easy|
+|989|[Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer/)|[Java](src/com/eric/AddToArrayFormOfInteger.java)|Easy|
+|1002|[Find Common Characters](https://leetcode.com/problems/find-common-characters/)|[Java](src/com/eric/FindCommonCharacters.java)|Easy|
+|1010|[Pairs of Songs With Total Durations Divisible by 60](https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60/)|[Java](src/com/eric/PairsOfSongsWithTotalDurationsDivisibleBy60.java)|Easy|
+|1013|[Partition Array Into Three Parts With Equal Sum](https://leetcode.com/problems/partition-array-into-three-parts-with-equal-sum/)|[Java](src/com/eric/PartitionArrayIntoThreePartsWithEqualSum.java)|Easy|
+|1089|[Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros/)|[Java](src/com/eric/DuplicateZeros.java)|Easy|
+|1122|[Relative Sort Array](https://leetcode.com/problems/relative-sort-array/)|[Java](src/com/eric/RelativeSortArray.java)|Easy|
+|1160|[Find Words That Can Be Formed by Characters](https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/)|[Java](src/com/eric/FindWordsThatCanBeFormedByCharacters.java)|Easy|
+|1394|[Find Lucky Integer in an Array](https://leetcode.com/problems/find-lucky-integer-in-an-array/)|[Java](src/array/findLuckyIntegerInAnArray/FindLuckyIntegerInAnArray.java)|Easy|
+
+### Concurrency
+| #  | Title | Solution | Difficulty|
+|:--:|:-----|:--------:|:---------:|
+|1114|[Print in Order](https://leetcode.com/problems/print-in-order/)|[Java](src/com/eric/PrintInOrder.java)|Easy|
+|1115|[Print FooBar Alternately](https://leetcode.com/problems/print-foobar-alternately/)|[Java](src/com/eric/PrintFoobarAlternately.java)|Easy|
+|1116|[Print Zero Even Odd](https://leetcode.com/problems/print-zero-even-odd/)|[Java](src/com/eric/PrintZeroEvenOdd.java)|Easy|
