@@ -76,6 +76,7 @@
 |840|[Magic Squares In Grid](https://leetcode.com/problems/magic-squares-in-grid/)|[Java](src/com/eric/MagicSquaresInGrid.java)|Easy|
 |849|[Maximize Distance to Closest Person](https://leetcode.com/problems/maximize-distance-to-closest-person/)|[Java](src/com/eric/MaximizeDistanceToClosestPerson.java)|Easy|
 |867|[Transpose Matrix](https://leetcode.com/problems/transpose-matrix/)|[Java](src/com/eric/TransposeMatrix.java)|Easy|
+|876|[Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)|[Java](src/linkedList/middleLinkedList/MiddleOfTheLinkedList.java)|Easy|
 |888|[Transpose Matrix](https://leetcode.com/problems/fair-candy-swap/)|[Java](src/com/eric/FairCandySwap.java)|Easy|
 |896|[Monotonic Array](https://leetcode.com/problems/monotonic-array/)|[Java](src/com/eric/MonotonicArray.java)|Easy|
 |905|[Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/)|[Java](src/com/eric/SortArrayByParity.java)|Easy|
