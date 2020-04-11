@@ -74,6 +74,7 @@
 |830|[Positions of Large Groups](https://leetcode.com/problems/positions-of-large-groups/)|[Java](src/com/eric/PositionsOfLargeGroups.java)|Easy|
 |832|[Flipping an Image](https://leetcode.com/problems/flipping-an-image/)|[Java](src/com/eric/FlippingAnImage.java)|Easy|
 |840|[Magic Squares In Grid](https://leetcode.com/problems/magic-squares-in-grid/)|[Java](src/com/eric/MagicSquaresInGrid.java)|Easy|
+|844|[Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)|[Java](src/string/backspaceStringCompare/BackspaceStringCompare.java)|Easy|
 |849|[Maximize Distance to Closest Person](https://leetcode.com/problems/maximize-distance-to-closest-person/)|[Java](src/com/eric/MaximizeDistanceToClosestPerson.java)|Easy|
 |867|[Transpose Matrix](https://leetcode.com/problems/transpose-matrix/)|[Java](src/com/eric/TransposeMatrix.java)|Easy|
 |876|[Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)|[Java](src/linkedList/middleLinkedList/MiddleOfTheLinkedList.java)|Easy|
