@@ -59,6 +59,7 @@
 |268|[Missing Number](https://leetcode.com/problems/missing-number/)|[Java](src/array/MissingNumber/MissingNumber.java)|Easy|
 |278|[First Bad Version](https://leetcode.com/problems/first-bad-version/)|[Java](src/com/eric/firstBadVersion/FirstBadVersion.java)|Easy|
 |283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/)|[Java](src/array/moveZeroes/MoveZeroes.java)|Easy|
+|383|[Ransom Note](https://leetcode.com/problems/ransom-note/)|[Java](src/string/ransomNote/RansomNote.java)|Easy|
 |414|[Third Maximum Number](https://leetcode.com/problems/third-maximum-number/)|[Java](src/array/thirdMaximumNumber/ThirdMaximumNumber.java)|Easy|
 |448|[Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)|[Java](src/array/findAllNumbersDisappearedArray/FindAllNumbersDisappearedArray.java)|Easy|
 |485|[Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/)|[Java](src/array/maxConsecutiveOnes/MaxConsecutiveOnes.java)|Easy|
