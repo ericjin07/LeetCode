@@ -96,6 +96,7 @@
 |1089| [Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros/) | [Java](src/com/eric/DuplicateZeros.java) |Easy|
 |1122| [Relative Sort Array](https://leetcode.com/problems/relative-sort-array/) | [Java](src/com/eric/RelativeSortArray.java) |Easy|
 |1160| [Find Words That Can Be Formed by Characters](https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/) | [Java](src/com/eric/FindWordsThatCanBeFormedByCharacters.java) |Easy|
+|1295| [Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/) | [Java](src/array/findNumbersWithEvenNumberofDigits/FindNumbersWithEvenNumberofDigits.java) |Easy|
 |1394| [Find Lucky Integer in an Array](https://leetcode.com/problems/find-lucky-integer-in-an-array/) | [Java](src/array/findLuckyIntegerInAnArray/FindLuckyIntegerInAnArray.java) |Easy|
 
 ### Concurrency
