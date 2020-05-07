@@ -92,6 +92,7 @@
 |977| [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | [Java](src/com/eric/SquaresOfASortedArray.java) |Easy|
 |985| [Sum of Even Numbers After Queries](https://leetcode.com/problems/sum-of-even-numbers-after-queries/) | [Java](src/com/eric/SumOfEvenNumbersAfterQueries.java) |Easy|
 |989| [Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer/) | [Java](src/com/eric/AddToArrayFormOfInteger.java) |Easy|
+|993| [Cousins in Binary Tree](https://leetcode.com/problems/cousins-in-binary-tree/) | [Java](src/tree/cousinsInBinaryTree/CousinsInBinaryTree.java) |Easy|
 |1002| [Find Common Characters](https://leetcode.com/problems/find-common-characters/) | [Java](src/com/eric/FindCommonCharacters.java) |Easy|
 |1010| [Pairs of Songs With Total Durations Divisible by 60](https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60/) | [Java](src/com/eric/PairsOfSongsWithTotalDurationsDivisibleBy60.java) |Easy|
 |1013| [Partition Array Into Three Parts With Equal Sum](https://leetcode.com/problems/partition-array-into-three-parts-with-equal-sum/) | [Java](src/com/eric/PartitionArrayIntoThreePartsWithEqualSum.java) |Easy|
