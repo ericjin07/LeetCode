@@ -41,22 +41,18 @@ public class DuplicateZeros {
     // leetcode submit region begin(Prohibit modification and deletion)
     class Solution {
         public void duplicateZeros(int[] arr) {
-            int len = arr.length;
-            int countZero = 0;
-            for (int value : arr) {
-                if (value == 0)
-                    countZero++;
+            int cnt = 0;
+            for (int i : arr) {
+                if (i == 0) cnt++;
             }
-            for (int i = len - 1, j = len + countZero - 1; i < j && i >= 0; i--, j--) {
-                if (arr[i] != 0) {
-                    if (j < len)
-                        arr[j] = arr[i];
+            int len = arr.length, right = len - 1 + cnt;
+            for (int i = len - 1; i >=0 && right > i ; i--,right--) {
+                if (arr[i] == 0) {
+                    if (right < len) arr[right] = 0;
+                    right--;
+                    if (right < len) arr[right] = 0;
                 } else {
-                    if (j < len)
-                        arr[j] = arr[i];
-                    j--;
-                    if (j < len)
-                        arr[j] = arr[i];
+                    if (right < len) arr[right] = arr[i];
                 }
             }
         }

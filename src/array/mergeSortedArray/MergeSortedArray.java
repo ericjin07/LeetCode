@@ -60,18 +60,19 @@ public class MergeSortedArray {
 
     //另一种巧思，因为是排序的，而且num1有多余的空间，所以从大的开始排序，直接占用最后的空位即可
     public void merge_addBig(int[] nums1, int m, int[] nums2, int n){
-        int i,j,k;
-        i = m - 1;
-        j = n - 1;
-        k = nums1.length - 1;
-        while (i >= 0 && j >= 0){
-            if (nums1[i] > nums2[j])
+        int i = m - 1;
+        int j = n - 1;
+        int k = n + m - 1;
+
+        while (i >= 0 && j >= 0 && k >= 0) {
+            if (nums1[i] > nums2[j]) {
                 nums1[k--] = nums1[i--];
-            else
+            } else {
                 nums1[k--] = nums2[j--];
+            }
         }
-        while (j >= 0)
+        while (j >= 0) {
             nums1[k--] = nums2[j--];
-        System.out.println(Arrays.toString(nums1));
+        }
     }
 }
