@@ -4,9 +4,7 @@ package array.removeDuplicates;
  * Create by IntelliJ IDEA.
  * Author: EricJin
  * Date: 08/27/2018 9:29
- */
 
-/**
  * Given a sorted array nums, remove the duplicates in-place such that each element appear only once and return the new length.
  *
  * Do not allocate extra space for another array, you must do this by modifying the input array in-place with O(1) extra memory.
@@ -53,5 +51,17 @@ public class RemoveDuplicates {
            nums[++left] = nums[i];
        }
        return left + 1;
+    }
+
+    public int removeDuplicates_2(int[] nums) {
+        int len = nums.length, left = 0, right = 1;
+        while (left < right && right < len) {
+            if (nums[left] != nums[right]) {
+                nums[++left] = nums[right++];
+            } else {
+                right++;
+            }
+        }
+        return left + 1;
     }
 }
