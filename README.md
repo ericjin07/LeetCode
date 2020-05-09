@@ -59,6 +59,7 @@
 |268| [Missing Number](https://leetcode.com/problems/missing-number/) | [Java](src/array/MissingNumber/MissingNumber.java) |Easy|
 |278| [First Bad Version](https://leetcode.com/problems/first-bad-version/) | [Java](src/com/eric/firstBadVersion/FirstBadVersion.java) |Easy|
 |283| [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [Java](src/array/moveZeroes/MoveZeroes.java) |Easy|
+|367| [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/) | [Java](src/com/eric/validPerfectSquare/ValidPerfectSquare.java) |Easy|
 |383| [Ransom Note](https://leetcode.com/problems/ransom-note/) | [Java](src/string/ransomNote/RansomNote.java) |Easy|
 |387| [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string) | [Java](src/com/eric/firstUniqChar/FirstUniqChar.java) |Easy|
 |414| [Third Maximum Number](https://leetcode.com/problems/third-maximum-number/) | [Java](src/array/thirdMaximumNumber/ThirdMaximumNumber.java) |Easy|
