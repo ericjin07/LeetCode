@@ -90,7 +90,7 @@
 |905| [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/) | [Java](src/com/eric/SortArrayByParity.java) |Easy|
 |914| [X of a Kind in a Deck of Cards](https://leetcode.com/problems/x-of-a-kind-in-a-deck-of-cards/) | [Java](src/com/eric/XOfAKindInADeckOfCards.java) |Easy|
 |922| [Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii/) | [Java](src/com/eric/SortArrayByParityIi.java) |Easy|
-|941| [Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/) | [Java](src/com/eric/ValidMountainArray.java) |Easy|
+|941| [Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/) | [Java](src/array/validMountainArray/ValidMountainArray.java) |Easy|
 |977| [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | [Java](src/com/eric/SquaresOfASortedArray.java) |Easy|
 |985| [Sum of Even Numbers After Queries](https://leetcode.com/problems/sum-of-even-numbers-after-queries/) | [Java](src/com/eric/SumOfEvenNumbersAfterQueries.java) |Easy|
 |989| [Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer/) | [Java](src/com/eric/AddToArrayFormOfInteger.java) |Easy|
