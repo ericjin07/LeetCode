@@ -62,6 +62,7 @@
 |367| [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/) | [Java](src/com/eric/validPerfectSquare/ValidPerfectSquare.java) |Easy|
 |383| [Ransom Note](https://leetcode.com/problems/ransom-note/) | [Java](src/string/ransomNote/RansomNote.java) |Easy|
 |387| [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string) | [Java](src/com/eric/firstUniqChar/FirstUniqChar.java) |Easy|
+|402| [Remove K Digits](https://leetcode.com/problems/remove-k-digits/) | [Java](src/string/removeKDigits/RemoveKDigits.java) |Medium|
 |414| [Third Maximum Number](https://leetcode.com/problems/third-maximum-number/) | [Java](src/array/thirdMaximumNumber/ThirdMaximumNumber.java) |Easy|
 |448| [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) | [Java](src/array/findAllNumbersDisappearedArray/FindAllNumbersDisappearedArray.java) |Easy|
 |476| [Number Complement](https://leetcode.com/problems/number-complement/) | [Java](src/com/eric/numberComplement/NumberComplement.java) |Easy|
