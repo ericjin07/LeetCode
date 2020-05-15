@@ -92,6 +92,7 @@
 |896| [Monotonic Array](https://leetcode.com/problems/monotonic-array/) | [Java](src/com/eric/MonotonicArray.java) |Easy|
 |905| [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/) | [Java](src/com/eric/SortArrayByParity.java) |Easy|
 |914| [X of a Kind in a Deck of Cards](https://leetcode.com/problems/x-of-a-kind-in-a-deck-of-cards/) | [Java](src/com/eric/XOfAKindInADeckOfCards.java) |Easy|
+|918| [Maximum Sum Circular Subarray](https://leetcode.com/problems/maximum-sum-circular-subarray/) | [Java](src/array/maximumSumCircularSubarray/MaximumSumCircularSubarray.java) |Easy|
 |922| [Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii/) | [Java](src/com/eric/SortArrayByParityIi.java) |Easy|
 |941| [Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/) | [Java](src/array/validMountainArray/ValidMountainArray.java) |Easy|
 |977| [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | [Java](src/com/eric/SquaresOfASortedArray.java) |Easy|
