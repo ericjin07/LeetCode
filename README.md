@@ -54,12 +54,13 @@
 |172| [Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/) | [Java](src/math/factorialTrailingZeroes/FactorialTrailingZeroes.java) |Easy|
 |189| [Rotate Array](https://leetcode.com/problems/rotate-array/) | [Java](src/array/rotateArray/RotateArray.java) |Easy|
 |202| [Happy Number](https://leetcode.com/problems/happy-number/) | [Java](src/com/eric/happyNumber/HappyNumber.java) |Easy|
-|208| [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/) | [Java](src/tree/implementTrie/ImplementTrie.java) |Easy|
+|208| [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/) | [Java](src/tree/implementTrie/ImplementTrie.java) |Medium|
 |217| [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [Java](src/array/containsDuplicate/ContainsDuplicate.java) |Easy|
 |219| [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii) | [Java](src/array/containsDuplicate2/ContainsDuplicate.java) |Easy|
 |268| [Missing Number](https://leetcode.com/problems/missing-number/) | [Java](src/array/MissingNumber/MissingNumber.java) |Easy|
 |278| [First Bad Version](https://leetcode.com/problems/first-bad-version/) | [Java](src/com/eric/firstBadVersion/FirstBadVersion.java) |Easy|
 |283| [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [Java](src/array/moveZeroes/MoveZeroes.java) |Easy|
+|328| [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/) | [Java](src/linkedList/oddEvenList/OddEvenList.java) |Medium|
 |367| [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/) | [Java](src/com/eric/validPerfectSquare/ValidPerfectSquare.java) |Easy|
 |383| [Ransom Note](https://leetcode.com/problems/ransom-note/) | [Java](src/string/ransomNote/RansomNote.java) |Easy|
 |387| [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string) | [Java](src/com/eric/firstUniqChar/FirstUniqChar.java) |Easy|
@@ -92,7 +93,7 @@
 |896| [Monotonic Array](https://leetcode.com/problems/monotonic-array/) | [Java](src/com/eric/MonotonicArray.java) |Easy|
 |905| [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/) | [Java](src/com/eric/SortArrayByParity.java) |Easy|
 |914| [X of a Kind in a Deck of Cards](https://leetcode.com/problems/x-of-a-kind-in-a-deck-of-cards/) | [Java](src/com/eric/XOfAKindInADeckOfCards.java) |Easy|
-|918| [Maximum Sum Circular Subarray](https://leetcode.com/problems/maximum-sum-circular-subarray/) | [Java](src/array/maximumSumCircularSubarray/MaximumSumCircularSubarray.java) |Easy|
+|918| [Maximum Sum Circular Subarray](https://leetcode.com/problems/maximum-sum-circular-subarray/) | [Java](src/array/maximumSumCircularSubarray/MaximumSumCircularSubarray.java) |Medium|
 |922| [Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii/) | [Java](src/com/eric/SortArrayByParityIi.java) |Easy|
 |941| [Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/) | [Java](src/array/validMountainArray/ValidMountainArray.java) |Easy|
 |977| [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | [Java](src/com/eric/SquaresOfASortedArray.java) |Easy|
