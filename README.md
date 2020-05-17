@@ -66,6 +66,7 @@
 |387| [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string) | [Java](src/com/eric/firstUniqChar/FirstUniqChar.java) |Easy|
 |402| [Remove K Digits](https://leetcode.com/problems/remove-k-digits/) | [Java](src/string/removeKDigits/RemoveKDigits.java) |Medium|
 |414| [Third Maximum Number](https://leetcode.com/problems/third-maximum-number/) | [Java](src/array/thirdMaximumNumber/ThirdMaximumNumber.java) |Easy|
+|438| [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/) | [Java](src/string/findAllAnagramsInString/FindAllAnagramsInString.java) |Medium|
 |448| [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) | [Java](src/array/findAllNumbersDisappearedArray/FindAllNumbersDisappearedArray.java) |Easy|
 |476| [Number Complement](https://leetcode.com/problems/number-complement/) | [Java](src/com/eric/numberComplement/NumberComplement.java) |Easy|
 |485| [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | [Java](src/array/maxConsecutiveOnes/MaxConsecutiveOnes.java) |Easy|
