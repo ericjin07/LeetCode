@@ -110,6 +110,7 @@
 |1160| [Find Words That Can Be Formed by Characters](https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/) | [Java](src/com/eric/FindWordsThatCanBeFormedByCharacters.java) |Easy|
 |1232| [Check If It Is a Straight Line](https://leetcode.com/problems/check-if-it-is-a-straight-line/) | [Java](src/array/checkStraightLine/CheckStraightLine.java) |Easy|
 |1295| [Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/) | [Java](src/array/findNumbersWithEvenNumberofDigits/FindNumbersWithEvenNumberofDigits.java) |Easy|
+|1290| [Replace Elements with Greatest Element on Right Side](https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/) | [Java](src/array/replaceElementsWithGreatestElementOnRightSide/ReplaceElementsWithGreatestElementOnRightSide.java) |Easy|
 |1346| [Check If N and Its Double Exist](https://leetcode.com/problems/check-if-n-and-its-double-exist/) | [Java](src/array/checkIfDoubleExist/CheckIfDoubleExist.java) |Easy|
 |1394| [Find Lucky Integer in an Array](https://leetcode.com/problems/find-lucky-integer-in-an-array/) | [Java](src/array/findLuckyIntegerInAnArray/FindLuckyIntegerInAnArray.java) |Easy|
 
