@@ -17,7 +17,7 @@
 |16| [3 Sum Closest](https://leetcode.com/problems/3sum-closest/) | [Java](src/com/eric/ThreeSumClosest.java) |Easy|
 |20| [valid parentheses](https://leetcode.com/problems/valid-parentheses/description/) | [Java](src/stack/validParenthese/ValidParentheses.java) |Easy|
 |21| [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/) | [Java](src/linkedList/mergeTwoSortedLists/MergeTwoSortedLists.java) |Easy|
-|26| [Remove Duplicates](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/) | [Java](src/array/removeDuplicates/RemoveDuplicates.java) |Easy|
+|26| [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/) | [Java](src/array/removeDuplicates/RemoveDuplicates.java) |Easy|
 |27| [Remove Element](https://leetcode.com/problems/remove-element/description/) | [Java](src/array/removeElement/RemoveElement.java) |Easy|
 |28| [Implement Str](https://leetcode.com/problems/implement-strstr/description/) | [Java](src/string/implementStrStr/ImplementStr.java) |Easy|
 |35| [Search Insert Position](https://leetcode.com/problems/search-insert-position/description/) | [Java](src/array/searchInsertPosition/SearchInsertPosition.java) |Easy|
