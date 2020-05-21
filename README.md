@@ -57,6 +57,7 @@
 |208| [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/) | [Java](src/tree/implementTrie/ImplementTrie.java) |Medium|
 |217| [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [Java](src/array/containsDuplicate/ContainsDuplicate.java) |Easy|
 |219| [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii) | [Java](src/array/containsDuplicate2/ContainsDuplicate.java) |Easy|
+|230| [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | [Java](src/tree/KthSmallestElementInBST/KthSmallestElementInBST.java) |Easy|
 |268| [Missing Number](https://leetcode.com/problems/missing-number/) | [Java](src/array/MissingNumber/MissingNumber.java) |Easy|
 |278| [First Bad Version](https://leetcode.com/problems/first-bad-version/) | [Java](src/com/eric/firstBadVersion/FirstBadVersion.java) |Easy|
 |283| [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [Java](src/array/moveZeroes/MoveZeroes.java) |Easy|
