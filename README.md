@@ -106,6 +106,7 @@
 |997| [Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/) | [Java](src/array/findTheTownJudge/FindTheTownJudge.java) |Easy|
 |1010| [Pairs of Songs With Total Durations Divisible by 60](https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60/) | [Java](src/com/eric/PairsOfSongsWithTotalDurationsDivisibleBy60.java) |Easy|
 |1013| [Partition Array Into Three Parts With Equal Sum](https://leetcode.com/problems/partition-array-into-three-parts-with-equal-sum/) | [Java](src/com/eric/PartitionArrayIntoThreePartsWithEqualSum.java) |Easy|
+|1051| [Height Checker](https://leetcode.com/problems/height-checker/) | [Java](src/array/heightChecker/HeightChecker.java) |Easy|
 |1089| [Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros/) | [Java](src/com/eric/DuplicateZeros.java) |Easy|
 |1122| [Relative Sort Array](https://leetcode.com/problems/relative-sort-array/) | [Java](src/com/eric/RelativeSortArray.java) |Easy|
 |1160| [Find Words That Can Be Formed by Characters](https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/) | [Java](src/com/eric/FindWordsThatCanBeFormedByCharacters.java) |Easy|
