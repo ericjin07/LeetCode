@@ -111,6 +111,7 @@
 |1122| [Relative Sort Array](https://leetcode.com/problems/relative-sort-array/) | [Java](src/com/eric/RelativeSortArray.java) |Easy|
 |1160| [Find Words That Can Be Formed by Characters](https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/) | [Java](src/com/eric/FindWordsThatCanBeFormedByCharacters.java) |Easy|
 |1232| [Check If It Is a Straight Line](https://leetcode.com/problems/check-if-it-is-a-straight-line/) | [Java](src/array/checkStraightLine/CheckStraightLine.java) |Easy|
+|1277| [Count Square Submatrices with All Ones](https://leetcode.com/problems/count-square-submatrices-with-all-ones/) | [Java](src/array/countSquareSubmatricesWithAllOnes/CountSquareSubmatricesWithAllOnes.java) |Medium|
 |1295| [Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/) | [Java](src/array/findNumbersWithEvenNumberofDigits/FindNumbersWithEvenNumberofDigits.java) |Easy|
 |1290| [Replace Elements with Greatest Element on Right Side](https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/) | [Java](src/array/replaceElementsWithGreatestElementOnRightSide/ReplaceElementsWithGreatestElementOnRightSide.java) |Easy|
 |1346| [Check If N and Its Double Exist](https://leetcode.com/problems/check-if-n-and-its-double-exist/) | [Java](src/array/checkIfDoubleExist/CheckIfDoubleExist.java) |Easy|
