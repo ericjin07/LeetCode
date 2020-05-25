@@ -57,6 +57,7 @@
 |208| [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/) | [Java](src/tree/implementTrie/ImplementTrie.java) |Medium|
 |217| [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [Java](src/array/containsDuplicate/ContainsDuplicate.java) |Easy|
 |219| [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii) | [Java](src/array/containsDuplicate2/ContainsDuplicate.java) |Easy|
+|230| [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | [Java](src/tree/KthSmallestElementInBST/KthSmallestElementInBST.java) |Easy|
 |268| [Missing Number](https://leetcode.com/problems/missing-number/) | [Java](src/array/MissingNumber/MissingNumber.java) |Easy|
 |278| [First Bad Version](https://leetcode.com/problems/first-bad-version/) | [Java](src/com/eric/firstBadVersion/FirstBadVersion.java) |Easy|
 |283| [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [Java](src/array/moveZeroes/MoveZeroes.java) |Easy|
@@ -105,12 +106,15 @@
 |989| [Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer/) | [Java](src/com/eric/AddToArrayFormOfInteger.java) |Easy|
 |993| [Cousins in Binary Tree](https://leetcode.com/problems/cousins-in-binary-tree/) | [Java](src/tree/cousinsInBinaryTree/CousinsInBinaryTree.java) |Easy|
 |997| [Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/) | [Java](src/array/findTheTownJudge/FindTheTownJudge.java) |Easy|
+|1008| [Construct Binary Search Tree from Preorder Traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/) | [Java](src/tree/constructBSTfromPreorderTraversal/ConstructBSTfromPreorderTraversal.java) |Medium|
 |1010| [Pairs of Songs With Total Durations Divisible by 60](https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60/) | [Java](src/com/eric/PairsOfSongsWithTotalDurationsDivisibleBy60.java) |Easy|
 |1013| [Partition Array Into Three Parts With Equal Sum](https://leetcode.com/problems/partition-array-into-three-parts-with-equal-sum/) | [Java](src/com/eric/PartitionArrayIntoThreePartsWithEqualSum.java) |Easy|
+|1051| [Height Checker](https://leetcode.com/problems/height-checker/) | [Java](src/array/heightChecker/HeightChecker.java) |Easy|
 |1089| [Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros/) | [Java](src/com/eric/DuplicateZeros.java) |Easy|
 |1122| [Relative Sort Array](https://leetcode.com/problems/relative-sort-array/) | [Java](src/com/eric/RelativeSortArray.java) |Easy|
 |1160| [Find Words That Can Be Formed by Characters](https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/) | [Java](src/com/eric/FindWordsThatCanBeFormedByCharacters.java) |Easy|
 |1232| [Check If It Is a Straight Line](https://leetcode.com/problems/check-if-it-is-a-straight-line/) | [Java](src/array/checkStraightLine/CheckStraightLine.java) |Easy|
+|1277| [Count Square Submatrices with All Ones](https://leetcode.com/problems/count-square-submatrices-with-all-ones/) | [Java](src/array/countSquareSubmatricesWithAllOnes/CountSquareSubmatricesWithAllOnes.java) |Medium|
 |1295| [Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/) | [Java](src/array/findNumbersWithEvenNumberofDigits/FindNumbersWithEvenNumberofDigits.java) |Easy|
 |1290| [Replace Elements with Greatest Element on Right Side](https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/) | [Java](src/array/replaceElementsWithGreatestElementOnRightSide/ReplaceElementsWithGreatestElementOnRightSide.java) |Easy|
 |1346| [Check If N and Its Double Exist](https://leetcode.com/problems/check-if-n-and-its-double-exist/) | [Java](src/array/checkIfDoubleExist/CheckIfDoubleExist.java) |Easy|
