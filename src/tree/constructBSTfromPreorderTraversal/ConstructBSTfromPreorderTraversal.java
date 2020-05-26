@@ -1,5 +1,7 @@
 package tree.constructBSTfromPreorderTraversal;
 
+import java.util.Stack;
+
 /**
  * Create by IntelliJ IDEA.
  * Author: EricJin
@@ -19,6 +21,26 @@ public class ConstructBSTfromPreorderTraversal {
         parent.left = bstFromPreorder(preorder, parent.val);
         parent.right = bstFromPreorder(preorder, bound);
         return parent;
+    }
+
+    public TreeNode bstFromPreorder_stack(int[] preorder) {
+        Stack<TreeNode> stack = new Stack<>();
+        TreeNode root = new TreeNode(preorder[0]);
+        stack.push(root);
+        for (int j = 1; j < preorder.length; j++) {
+            TreeNode node = new TreeNode(preorder[j]);
+            if (preorder[j] < stack.peek().val) {
+                stack.peek().left = node;
+            } else {
+                TreeNode parent = stack.peek();
+                while (!stack.isEmpty() && stack.peek().val < preorder[j]) {
+                    parent = stack.pop();
+                }
+                parent.right = node;
+            }
+            stack.push(node);
+        }
+        return root;
     }
 
     public class TreeNode {
