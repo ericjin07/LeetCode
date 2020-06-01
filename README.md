@@ -63,6 +63,7 @@
 |278| [First Bad Version](https://leetcode.com/problems/first-bad-version/) | [Java](src/com/eric/firstBadVersion/FirstBadVersion.java) |Easy|
 |283| [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [Java](src/array/moveZeroes/MoveZeroes.java) |Easy|
 |328| [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/) | [Java](src/linkedList/oddEvenList/OddEvenList.java) |Medium|
+|338| [Counting Bits](https://leetcode.com/problems/counting-bits/) | [Java](src/dynamicProgram/countingBits) |Medium|
 |367| [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/) | [Java](src/com/eric/validPerfectSquare/ValidPerfectSquare.java) |Easy|
 |383| [Ransom Note](https://leetcode.com/problems/ransom-note/) | [Java](src/string/ransomNote/RansomNote.java) |Easy|
 |387| [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string) | [Java](src/com/eric/firstUniqChar/FirstUniqChar.java) |Easy|
