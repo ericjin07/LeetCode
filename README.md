@@ -57,7 +57,7 @@
 |208| [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/) | [Java](src/tree/implementTrie/ImplementTrie.java) |Medium|
 |217| [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [Java](src/array/containsDuplicate/ContainsDuplicate.java) |Easy|
 |219| [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii) | [Java](src/array/containsDuplicate2/ContainsDuplicate.java) |Easy|
-|226| [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | [Java](src/tree/invertBinaryTree) |Easy|
+|226| [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | [Java](src/tree/invertBinaryTree/InvertBinaryTree.java) |Easy|
 |230| [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | [Java](src/tree/KthSmallestElementInBST/KthSmallestElementInBST.java) |Easy|
 |237| [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) | [Java](src/linkedList/deleteNode/DeleteNode.java) |Easy|
 |268| [Missing Number](https://leetcode.com/problems/missing-number/) | [Java](src/array/MissingNumber/MissingNumber.java) |Easy|
