@@ -78,6 +78,7 @@
 |485| [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | [Java](src/array/maxConsecutiveOnes/MaxConsecutiveOnes.java) |Easy|
 |509| [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | [Java](src/array/fibonacciNumber/FibonacciNumber.java) |Easy|
 |525| [Contiguous Array](https://leetcode.com/problems/contiguous-array/) | [Java](src/array/contiguousArray/CoutiguousArray.java) |Easy|
+|528| [Random Pick with Weight](https://leetcode.com/problems/random-pick-with-weight/) | [Java](src/com/eric/randomPickWithWeight/RandomPickWithWeight.java) |Medium|
 |532| [K-diff Pairs in an Array](https://leetcode.com/problems/k-diff-pairs-in-an-array/) | [Java](src/array/kdiffPairsinanArray/KdiffPairsinanArray.java) |Easy|
 |540| [Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/) | [Java](src/array/singleElementInSortedArray/SingleElementInSortedArray.java) |Medium|
 |561| [Array Partition I](https://leetcode.com/problems/array-partition-i/) | [Java](src/array/arrayPartition_1/ArrayPartition_1.java) |Easy|
