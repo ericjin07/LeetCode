@@ -70,6 +70,7 @@
 |383| [Ransom Note](https://leetcode.com/problems/ransom-note/) | [Java](src/string/ransomNote/RansomNote.java) |Easy|
 |387| [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string) | [Java](src/com/eric/firstUniqChar/FirstUniqChar.java) |Easy|
 |402| [Remove K Digits](https://leetcode.com/problems/remove-k-digits/) | [Java](src/string/removeKDigits/RemoveKDigits.java) |Medium|
+|406| [Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height/) | [Java](src/array/queueReconstructionbyHeight/QueueReconstructionByHeight.java) |Medium|
 |414| [Third Maximum Number](https://leetcode.com/problems/third-maximum-number/) | [Java](src/array/thirdMaximumNumber/ThirdMaximumNumber.java) |Easy|
 |438| [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/) | [Java](src/string/findAllAnagramsInString/FindAllAnagramsInString.java) |Medium|
 |448| [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) | [Java](src/array/findAllNumbersDisappearedArray/FindAllNumbersDisappearedArray.java) |Easy|
