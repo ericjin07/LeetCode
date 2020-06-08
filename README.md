@@ -78,6 +78,7 @@
 |476| [Number Complement](https://leetcode.com/problems/number-complement/) | [Java](src/com/eric/numberComplement/NumberComplement.java) |Easy|
 |485| [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | [Java](src/array/maxConsecutiveOnes/MaxConsecutiveOnes.java) |Easy|
 |509| [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | [Java](src/array/fibonacciNumber/FibonacciNumber.java) |Easy|
+|518| [Coin Change 2](https://leetcode.com/problems/coin-change-2/) | [Java](src/dynamicProgram/coinChange2/CoinChange.java) |Medium|
 |525| [Contiguous Array](https://leetcode.com/problems/contiguous-array/) | [Java](src/array/contiguousArray/CoutiguousArray.java) |Easy|
 |528| [Random Pick with Weight](https://leetcode.com/problems/random-pick-with-weight/) | [Java](src/com/eric/randomPickWithWeight/RandomPickWithWeight.java) |Medium|
 |532| [K-diff Pairs in an Array](https://leetcode.com/problems/k-diff-pairs-in-an-array/) | [Java](src/array/kdiffPairsinanArray/KdiffPairsinanArray.java) |Easy|
