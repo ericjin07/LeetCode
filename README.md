@@ -69,6 +69,7 @@
 |367| [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/) | [Java](src/com/eric/validPerfectSquare/ValidPerfectSquare.java) |Easy|
 |383| [Ransom Note](https://leetcode.com/problems/ransom-note/) | [Java](src/string/ransomNote/RansomNote.java) |Easy|
 |387| [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string) | [Java](src/com/eric/firstUniqChar/FirstUniqChar.java) |Easy|
+|392| [Is Subsequence](https://leetcode.com/problems/is-subsequence/) | [Java](src/string/isSubsequence/IsSubsequence.java) |Easy|
 |402| [Remove K Digits](https://leetcode.com/problems/remove-k-digits/) | [Java](src/string/removeKDigits/RemoveKDigits.java) |Medium|
 |406| [Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height/) | [Java](src/array/queueReconstructionbyHeight/QueueReconstructionByHeight.java) |Medium|
 |414| [Third Maximum Number](https://leetcode.com/problems/third-maximum-number/) | [Java](src/array/thirdMaximumNumber/ThirdMaximumNumber.java) |Easy|
