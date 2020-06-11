@@ -28,6 +28,7 @@
 |67| [Add Binary](https://leetcode.com/problems/add-binary/description/) | [Java](src/string/addbinary/AddBinary.java) |Easy|
 |69| [Sqrt(x)](https://leetcode.com/problems/sqrtx/description/) | [Java](src/math/sqrtofx/SqrtOfX.java) |Easy|
 |70| [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/) | [Java](src/dynamicProgram/climbingStairs/ClimbingStairs.java) |Easy|
+|75| [Sort Colors](https://leetcode.com/problems/sort-colors/) | [Java](src/array/sortColors/SortColors.java) |Easy|
 |83| [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/) | [Java](src/linkedList/removeDuplicatesfromSortedList/RemoveDuplicatesfromSortedList.java) |Easy|
 |88| [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/) | [Java](src/array/mergeSortedArray/MergeSortedArray.java) |Easy|
 |100| [Same Tree](https://leetcode.com/problems/same-tree/description/) | [Java](src/tree/sameTree/SameTree.java) |Easy|
