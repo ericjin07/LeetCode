@@ -69,6 +69,7 @@
 |338| [Counting Bits](https://leetcode.com/problems/counting-bits/) | [Java](src/dynamicProgram/countingBits) |Medium|
 |344| [Reverse String](https://leetcode.com/problems/reverse-string/) | [Java](src/string/reverseString/ReverseString.java) |Easy|
 |367| [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/) | [Java](src/com/eric/validPerfectSquare/ValidPerfectSquare.java) |Easy|
+|368| [Largest Divisible Subset](https://leetcode.com/problems/largest-divisible-subset/) | [Java](src/dynamicProgram/largestDivisibleSubset/LargestDivisibleSubset.java) |Easy|
 |383| [Ransom Note](https://leetcode.com/problems/ransom-note/) | [Java](src/string/ransomNote/RansomNote.java) |Easy|
 |387| [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string) | [Java](src/com/eric/firstUniqChar/FirstUniqChar.java) |Easy|
 |392| [Is Subsequence](https://leetcode.com/problems/is-subsequence/) | [Java](src/string/isSubsequence/IsSubsequence.java) |Easy|
@@ -91,6 +92,7 @@
 |567| [Permutation in String](https://leetcode.com/problems/permutation-in-string/) | [Java](src/string/permutationInString/PermutationInString.java) |Medium|
 |581| [Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/) | [Java](src/array/shortestUnsortedContinuousSubarray/ShortestUnsortedContinuousSubarray.java) |Easy|
 |605| [Can Place Flowers](https://leetcode.com/problems/can-place-flowers/) | [Java](src/array/canPlaceFlowers/CanPlaceFlowers.java) |Easy|
+|700| [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/) | [Java](src/tree/searchInBinarySearchTree/SearchinaBinarySearchTree.java) |Easy|
 |724| [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) | [Java](src/com/eric/FindPivotIndex.java) |Easy|
 |733| [Flood Fill](https://leetcode.com/problems/flood-fill/) | [Java](src/array/floodFill/FloodFill.java) |Easy|
 |746| [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/) | [Java](src/com/eric/MinCostClimbingStairs.java) |Easy|
