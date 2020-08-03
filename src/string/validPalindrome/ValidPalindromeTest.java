@@ -24,6 +24,7 @@ public class ValidPalindromeTest {
         String s = "A man, a plan, a canal: Panama";
         assertEquals(true,vp.isPalindrome(s));
         assertEquals(false,vp.isPalindrome("race a car"));
+        assertEquals(false,vp.isPalindrome("0P"));
     }
 
     @Test
