@@ -10,6 +10,7 @@ import java.util.List;
  */
 public class FindAllDuplicatesInArray {
 
+    // get the num of the index , and flip the index to negative, if it is already negative, then add to the result
     public List<Integer> findDuplicates(int[] nums) {
         List<Integer> res = new ArrayList<>();
         for (int i = 0; i < nums.length; i++) {
