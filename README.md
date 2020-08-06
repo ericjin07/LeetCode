@@ -67,6 +67,7 @@
 |283| [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [Java](src/array/moveZeroes/MoveZeroes.java) |Easy|
 |328| [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/) | [Java](src/linkedList/oddEvenList/OddEvenList.java) |Medium|
 |338| [Counting Bits](https://leetcode.com/problems/counting-bits/) | [Java](src/dynamicProgram/countingBits) |Medium|
+|342| [Power of Four](https://leetcode.com/problems/power-of-four/) | [Java](src/math/powerOfFour/PowerOfFour.java) |Medium|
 |344| [Reverse String](https://leetcode.com/problems/reverse-string/) | [Java](src/string/reverseString/ReverseString.java) |Easy|
 |367| [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/) | [Java](src/com/eric/validPerfectSquare/ValidPerfectSquare.java) |Easy|
 |368| [Largest Divisible Subset](https://leetcode.com/problems/largest-divisible-subset/) | [Java](src/dynamicProgram/largestDivisibleSubset/LargestDivisibleSubset.java) |Easy|
