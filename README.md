@@ -43,7 +43,7 @@
 |119| [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/description/) | [Java](src/array/pascalTriangle/PascalTriangle_2.java) |Easy|
 |121| [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/) | [Java](src/array/bestTimetoBuyandSellStock/BestTimetoBuyandSellStock.java) |Easy|
 |122| [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/) | [Java](src/array/bestTimetoBuyandSellStock_2/BestTimetoBuyandSellStock_2.java) |Easy|
-|125| [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [Java](src/string/validPalindrome/ValidPalindromeTest.java) |Easy|
+|125| [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [Java](src/string/validPalindrome/ValidPalindrome.java) |Easy|
 |136| [Single Number](https://leetcode.com/problems/single-number/) | [Java](src/hashtable/SingleNumber.java) |Easy|
 |141| [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [Java](src/linkedList/LinkedListCycle/LinkedListCycle.java) |Easy|
 |155| [Min Stack](https://leetcode.com/problems/min-stack/) | [Java](src/stack/minStack/MinStack.java) |Easy|
@@ -60,6 +60,7 @@
 |219| [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii) | [Java](src/array/containsDuplicate2/ContainsDuplicate.java) |Easy|
 |226| [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | [Java](src/tree/invertBinaryTree/InvertBinaryTree.java) |Easy|
 |230| [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | [Java](src/tree/KthSmallestElementInBST/KthSmallestElementInBST.java) |Easy|
+|231| [Power of Two](https://leetcode.com/problems/power-of-two/) | [Java](src/math/powerOfTwo/PowerOfTwo.java) |Easy|
 |237| [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) | [Java](src/linkedList/deleteNode/DeleteNode.java) |Easy|
 |252| [Meeting Rooms](https://leetcode.com/problems/meeting-rooms/) | [Java](src/greedy/meetingRoom/MeetingRoom.java) |Easy|
 |268| [Missing Number](https://leetcode.com/problems/missing-number/) | [Java](src/array/MissingNumber/MissingNumber.java) |Easy|
@@ -67,8 +68,10 @@
 |283| [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [Java](src/array/moveZeroes/MoveZeroes.java) |Easy|
 |328| [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/) | [Java](src/linkedList/oddEvenList/OddEvenList.java) |Medium|
 |338| [Counting Bits](https://leetcode.com/problems/counting-bits/) | [Java](src/dynamicProgram/countingBits) |Medium|
+|342| [Power of Four](https://leetcode.com/problems/power-of-four/) | [Java](src/math/powerOfFour/PowerOfFour.java) |Medium|
 |344| [Reverse String](https://leetcode.com/problems/reverse-string/) | [Java](src/string/reverseString/ReverseString.java) |Easy|
 |367| [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/) | [Java](src/com/eric/validPerfectSquare/ValidPerfectSquare.java) |Easy|
+|368| [Largest Divisible Subset](https://leetcode.com/problems/largest-divisible-subset/) | [Java](src/dynamicProgram/largestDivisibleSubset/LargestDivisibleSubset.java) |Easy|
 |383| [Ransom Note](https://leetcode.com/problems/ransom-note/) | [Java](src/string/ransomNote/RansomNote.java) |Easy|
 |387| [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string) | [Java](src/com/eric/firstUniqChar/FirstUniqChar.java) |Easy|
 |392| [Is Subsequence](https://leetcode.com/problems/is-subsequence/) | [Java](src/string/isSubsequence/IsSubsequence.java) |Easy|
@@ -76,12 +79,15 @@
 |406| [Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height/) | [Java](src/array/queueReconstructionbyHeight/QueueReconstructionByHeight.java) |Medium|
 |414| [Third Maximum Number](https://leetcode.com/problems/third-maximum-number/) | [Java](src/array/thirdMaximumNumber/ThirdMaximumNumber.java) |Easy|
 |438| [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/) | [Java](src/string/findAllAnagramsInString/FindAllAnagramsInString.java) |Medium|
+|441| [Arranging Coins](https://leetcode.com/problems/arranging-coins/) | [Java](src/math/arrangingCoins/ArrangingCoins.java) |Easy|
+|442| [Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/) | [Java](src/array/findAllDuplicatesInArray/FindAllDuplicatesInArray.java) |Easy|
 |448| [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) | [Java](src/array/findAllNumbersDisappearedArray/FindAllNumbersDisappearedArray.java) |Easy|
 |451| [Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/) | [Java](src/string/sortCharactersByFrequency/SortCharactersByFrequency.java) |Medium|
 |476| [Number Complement](https://leetcode.com/problems/number-complement/) | [Java](src/com/eric/numberComplement/NumberComplement.java) |Easy|
 |485| [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | [Java](src/array/maxConsecutiveOnes/MaxConsecutiveOnes.java) |Easy|
 |509| [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | [Java](src/array/fibonacciNumber/FibonacciNumber.java) |Easy|
 |518| [Coin Change 2](https://leetcode.com/problems/coin-change-2/) | [Java](src/dynamicProgram/coinChange2/CoinChange.java) |Medium|
+|520| [Detect Capital](https://leetcode.com/problems/detect-capital/) | [Java](src/string/detectCapital/DetectCapital.java) |Easy|
 |525| [Contiguous Array](https://leetcode.com/problems/contiguous-array/) | [Java](src/array/contiguousArray/CoutiguousArray.java) |Easy|
 |528| [Random Pick with Weight](https://leetcode.com/problems/random-pick-with-weight/) | [Java](src/com/eric/randomPickWithWeight/RandomPickWithWeight.java) |Medium|
 |532| [K-diff Pairs in an Array](https://leetcode.com/problems/k-diff-pairs-in-an-array/) | [Java](src/array/kdiffPairsinanArray/KdiffPairsinanArray.java) |Easy|
@@ -91,6 +97,7 @@
 |567| [Permutation in String](https://leetcode.com/problems/permutation-in-string/) | [Java](src/string/permutationInString/PermutationInString.java) |Medium|
 |581| [Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/) | [Java](src/array/shortestUnsortedContinuousSubarray/ShortestUnsortedContinuousSubarray.java) |Easy|
 |605| [Can Place Flowers](https://leetcode.com/problems/can-place-flowers/) | [Java](src/array/canPlaceFlowers/CanPlaceFlowers.java) |Easy|
+|700| [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/) | [Java](src/tree/searchInBinarySearchTree/SearchinaBinarySearchTree.java) |Easy|
 |724| [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) | [Java](src/com/eric/FindPivotIndex.java) |Easy|
 |733| [Flood Fill](https://leetcode.com/problems/flood-fill/) | [Java](src/array/floodFill/FloodFill.java) |Easy|
 |746| [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/) | [Java](src/com/eric/MinCostClimbingStairs.java) |Easy|

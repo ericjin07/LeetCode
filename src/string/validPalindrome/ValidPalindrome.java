@@ -49,4 +49,17 @@ public class ValidPalindrome {
     public boolean isAlphNum(char c){
         return Character.isLetterOrDigit(c);
     }
+
+    public boolean isPalindrome_2(String s) {
+        String str = s.toLowerCase();
+        int lo = 0, hi = str.length() - 1;
+        while (lo < hi) {
+            while (!Character.isLetterOrDigit(str.charAt(lo)) && lo < hi) lo++;
+            while (!Character.isLetterOrDigit(str.charAt(hi)) && lo < hi) hi--;
+            if (str.charAt(lo) != str.charAt(hi)) return false;
+            lo++;
+            hi--;
+        }
+        return true;
+    }
 }
