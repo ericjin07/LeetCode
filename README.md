@@ -125,6 +125,7 @@
 |985| [Sum of Even Numbers After Queries](https://leetcode.com/problems/sum-of-even-numbers-after-queries/) | [Java](src/com/eric/SumOfEvenNumbersAfterQueries.java) |Easy|
 |986| [Interval List Intersections](https://leetcode.com/problems/interval-list-intersections/) | [Java](src/array/intervalListIntersections/IntervalListIntersections.java) |Easy|
 |989| [Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer/) | [Java](src/com/eric/AddToArrayFormOfInteger.java) |Easy|
+|992| [Subarrays with K Different Integers](https://leetcode-cn.com/problems/subarrays-with-k-different-integers/) | [Java](src/array/subarraysWithKdifferentIntegers/SubarraysWithKdifferentIntegers.java) |Hard|
 |993| [Cousins in Binary Tree](https://leetcode.com/problems/cousins-in-binary-tree/) | [Java](src/tree/cousinsInBinaryTree/CousinsInBinaryTree.java) |Easy|
 |997| [Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/) | [Java](src/array/findTheTownJudge/FindTheTownJudge.java) |Easy|
 |1008| [Construct Binary Search Tree from Preorder Traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/) | [Java](src/tree/constructBSTfromPreorderTraversal/ConstructBSTfromPreorderTraversal.java) |Medium|
