@@ -4,8 +4,6 @@ import org.junit.Test;
 
 import java.util.Arrays;
 
-import static org.junit.Assert.*;
-
 /**
  * Create by IntelliJ IDEA.
  * Author: EricJin
@@ -17,7 +15,9 @@ public class ReshapetheMatrixTest {
     public void matrixReshape() {
         int [][] nums = new int[][]{{1,2},{3,4}};
         ReshapetheMatrix solution = new ReshapetheMatrix();
-        int [][]arr = solution.matrixReshape(nums,4,1);
+        int [][]arr = solution.matrixReshape(nums,1,4);
+        int [][]arr2 = solution.matrixReshape_2(nums,1,4);
         System.out.println(Arrays.deepToString(arr));
+        System.out.println(Arrays.deepToString(arr2));
     }
 }

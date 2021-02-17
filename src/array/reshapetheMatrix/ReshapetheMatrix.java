@@ -65,4 +65,18 @@ public class ReshapetheMatrix {
         }
         return reshape;
     }
+
+    public int[][] matrixReshape_2(int[][] nums, int r, int c) {
+        int row = nums.length, col = nums[0].length;
+        if (row * col != r * c) {
+            return nums;
+        }
+        int[][] reshapeMatrix = new int[r][c];
+        for (int i = 0; i < row; i++) {
+            for (int j = 0; j < col; j++) {
+                reshapeMatrix[(i * col + j) / c][(i * col + j) % c] = nums[i][j];
+            }
+        }
+        return reshapeMatrix;
+    }
 }

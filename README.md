@@ -95,7 +95,7 @@
 |532| [K-diff Pairs in an Array](https://leetcode.com/problems/k-diff-pairs-in-an-array/) | [Java](src/array/kdiffPairsinanArray/KdiffPairsinanArray.java) |Easy|
 |540| [Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/) | [Java](src/array/singleElementInSortedArray/SingleElementInSortedArray.java) |Medium|
 |561| [Array Partition I](https://leetcode.com/problems/array-partition-i/) | [Java](src/array/arrayPartition_1/ArrayPartition_1.java) |Easy|
-|566| [K-diff Pairs in an Array](https://leetcode.com/problems/reshape-the-matrix/) | [Java](src/array/reshapetheMatrix/ReshapetheMatrix.java) |Easy|
+|566| [Reshape the Matrix](https://leetcode-cn.com/problems/reshape-the-matrix/) | [Java](src/array/reshapetheMatrix/ReshapetheMatrix.java) |Easy|
 |567| [Permutation in String](https://leetcode.com/problems/permutation-in-string/) | [Java](src/string/permutationInString/PermutationInString.java) |Medium|
 |581| [Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/) | [Java](src/array/shortestUnsortedContinuousSubarray/ShortestUnsortedContinuousSubarray.java) |Easy|
 |605| [Can Place Flowers](https://leetcode.com/problems/can-place-flowers/) | [Java](src/array/canPlaceFlowers/CanPlaceFlowers.java) |Easy|
