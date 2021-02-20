@@ -50,4 +50,31 @@ public class DegreeOfAnArray {
         }
         return min;
     }
+
+    public int findShortestSubArray_2(int[] nums) {
+        int[] degree = new int[50000];
+        int[] first = new int[50000];
+        int[] last = new int[50000];
+        int len = nums.length;
+        int max = 0;
+        for (int i = 0; i < len; i ++) {
+            int n = nums[i];
+            if (degree[n]++ == 0) {
+                first[n] = i;
+            }
+            last[n] = i;
+            max = Math.max(max, degree[n]);
+        }
+        if (max == 1) return 1;
+
+        int res = len;
+        for (int i = 0; i < 50000; i ++) {
+            int d = degree[i];
+            if (d == max) {
+                res = Math.min(res, last[i] - first[i] + 1);
+            }
+        }
+        return res;
+
+    }
 }
