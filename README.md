@@ -139,6 +139,7 @@
 |1029| [Two City Scheduling](https://leetcode.com/problems/two-city-scheduling/) | [Java](src/array/twoCityScheduling/TwoCityScheduling.java) |Easy|
 |1035| [Uncrossed Lines](https://leetcode.com/problems/uncrossed-lines/) | [Java](src/dynamicProgram/uncrossedLines/UncrossedLines.java) |Medium|
 |1051| [Height Checker](https://leetcode.com/problems/height-checker/) | [Java](src/array/heightChecker/HeightChecker.java) |Easy|
+|1052| [Grumpy Bookstore Owner](https://leetcode-cn.com/problems/grumpy-bookstore-owner/) | [Java](src/array/grumpyBookstoreOwner/GrumpyBookstoreOwner.java) |Medium|
 |1089| [Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros/) | [Java](src/com/eric/DuplicateZeros.java) |Easy|
 |1094| [Car Pooling](https://leetcode.com/problems/car-pooling/) | [Java](src/greedy/carPooling/CarPooling.java) |Medium|
 |1122| [Relative Sort Array](https://leetcode.com/problems/relative-sort-array/) | [Java](src/com/eric/RelativeSortArray.java) |Easy|
