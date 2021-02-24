@@ -109,6 +109,7 @@
 |733| [Flood Fill](https://leetcode.com/problems/flood-fill/) | [Java](src/array/floodFill/FloodFill.java) |Easy|
 |746| [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/) | [Java](src/com/eric/MinCostClimbingStairs.java) |Easy|
 |747| [Largest Number At Least Twice of Others](https://leetcode.com/problems/largest-number-at-least-twice-of-others/) | [Java](src/com/eric/LargestNumberAtLeastTwiceOfOthers.java) |Easy|
+|763| [Partition Labels](https://leetcode.com/problems/partition-labels/) | [Java](src/greedy/partitionLabels/PartitionLabels.java) |Medium|
 |766| [Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix/) | [Java](src/com/eric/ToeplitzMatrix.java) |Easy|
 |771| [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/) | [Java](src/com/eric/jewelsandStones/JewelsandStones.java) |Easy|
 |830| [Positions of Large Groups](https://leetcode.com/problems/positions-of-large-groups/) | [Java](src/com/eric/PositionsOfLargeGroups.java) |Easy|
