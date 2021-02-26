@@ -146,6 +146,7 @@
 |1094| [Car Pooling](https://leetcode.com/problems/car-pooling/) | [Java](src/greedy/carPooling/CarPooling.java) |Medium|
 |1122| [Relative Sort Array](https://leetcode.com/problems/relative-sort-array/) | [Java](src/com/eric/RelativeSortArray.java) |Easy|
 |1160| [Find Words That Can Be Formed by Characters](https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/) | [Java](src/com/eric/FindWordsThatCanBeFormedByCharacters.java) |Easy|
+|1178| [Number of Valid Words for Each Puzzle](https://leetcode-cn.com/problems/number-of-valid-words-for-each-puzzle/) | [Java](src/bitManipulation/numOfValidWords/NumOfValidWords.java) |Hard|
 |1232| [Check If It Is a Straight Line](https://leetcode.com/problems/check-if-it-is-a-straight-line/) | [Java](src/array/checkStraightLine/CheckStraightLine.java) |Easy|
 |1277| [Count Square Submatrices with All Ones](https://leetcode.com/problems/count-square-submatrices-with-all-ones/) | [Java](src/array/countSquareSubmatricesWithAllOnes/CountSquareSubmatricesWithAllOnes.java) |Medium|
 |1295| [Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/) | [Java](src/array/findNumbersWithEvenNumberofDigits/FindNumbersWithEvenNumberofDigits.java) |Easy|
