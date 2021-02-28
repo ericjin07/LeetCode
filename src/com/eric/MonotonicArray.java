@@ -93,4 +93,17 @@ public class MonotonicArray {
     }
     // leetcode submit region end(Prohibit modification and deletion)
 
+    public boolean isMonotonic(int[] A) {
+        int len = A.length;
+        if (len == 1) return true;
+        int dec = 0, ac = 0;
+        for (int i = 0; i < len - 1; i++) {
+            if (ac > 0 && dec >0) break;
+            if (A[i] == A[i+1]) continue;
+            if (A[i] > A[i+1]) ac++;
+            if (A[i] < A[i+1]) dec++;
+        }
+        return !(ac > 0 && dec > 0);
+    }
+
 }
