@@ -70,6 +70,7 @@
 |278| [First Bad Version](https://leetcode.com/problems/first-bad-version/) | [Java](src/com/eric/firstBadVersion/FirstBadVersion.java) |Easy|
 |283| [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [Java](src/array/moveZeroes/MoveZeroes.java) |Easy|
 |303| [Range Sum Query - Immutable](https://leetcode-cn.com/problems/range-sum-query-immutable/) | [Java](src/dynamicProgram/rangeSumQuery/RangeSumQuery.java) |Easy|
+|303| [Range Sum Query 2D - Immutable](https://leetcode-cn.com/problems/range-sum-query-2d-immutable/) | [Java](src/dynamicProgram/rangeSumQuery2dImmutable/RangeSumQuery2dImmutable.java) |Medium|
 |328| [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/) | [Java](src/linkedList/oddEvenList/OddEvenList.java) |Medium|
 |338| [Counting Bits](https://leetcode.com/problems/counting-bits/) | [Java](src/dynamicProgram/countingBits) |Medium|
 |342| [Power of Four](https://leetcode.com/problems/power-of-four/) | [Java](src/math/powerOfFour/PowerOfFour.java) |Medium|
