@@ -75,6 +75,7 @@
 |338| [Counting Bits](https://leetcode.com/problems/counting-bits/) | [Java](src/dynamicProgram/countingBits) |Medium|
 |342| [Power of Four](https://leetcode.com/problems/power-of-four/) | [Java](src/math/powerOfFour/PowerOfFour.java) |Medium|
 |344| [Reverse String](https://leetcode.com/problems/reverse-string/) | [Java](src/string/reverseString/ReverseString.java) |Easy|
+|354| [Russian Doll Envelopes](https://leetcode-cn.com/problems/russian-doll-envelopes/) | [Java](src/dynamicProgram/russianDollEnvelopes/RussianDollEnvelopes.java) |Hard|
 |367| [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/) | [Java](src/com/eric/validPerfectSquare/ValidPerfectSquare.java) |Easy|
 |368| [Largest Divisible Subset](https://leetcode.com/problems/largest-divisible-subset/) | [Java](src/dynamicProgram/largestDivisibleSubset/LargestDivisibleSubset.java) |Easy|
 |383| [Ransom Note](https://leetcode.com/problems/ransom-note/) | [Java](src/string/ransomNote/RansomNote.java) |Easy|
