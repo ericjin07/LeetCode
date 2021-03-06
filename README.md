@@ -96,6 +96,8 @@
 |455| [Assign Cookies](https://leetcode-cn.com/problems/assign-cookies/) | [Java](src/greedy/assignCookies/AssignCookies.java) |Easy|
 |476| [Number Complement](https://leetcode.com/problems/number-complement/) | [Java](src/com/eric/numberComplement/NumberComplement.java) |Easy|
 |485| [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | [Java](src/array/maxConsecutiveOnes/MaxConsecutiveOnes.java) |Easy|
+|496| [Next Greater Element I](https://leetcode-cn.com/problems/next-greater-element-i/) | [Java](src/stack/nextGreaterElement1/NextGreaterElement1.java) |Easy|
+|503| [Next Greater Element II](https://leetcode-cn.com/problems/next-greater-element-ii/) | [Java](src/stack/nextGreaterElement_2/NextGreaterElement_2.java) |Medium|
 |509| [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | [Java](src/array/fibonacciNumber/FibonacciNumber.java) |Easy|
 |518| [Coin Change 2](https://leetcode.com/problems/coin-change-2/) | [Java](src/dynamicProgram/coinChange2/CoinChange.java) |Medium|
 |520| [Detect Capital](https://leetcode.com/problems/detect-capital/) | [Java](src/string/detectCapital/DetectCapital.java) |Easy|
