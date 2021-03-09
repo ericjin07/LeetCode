@@ -150,6 +150,7 @@
 |1013| [Partition Array Into Three Parts With Equal Sum](https://leetcode.com/problems/partition-array-into-three-parts-with-equal-sum/) | [Java](src/com/eric/PartitionArrayIntoThreePartsWithEqualSum.java) |Easy|
 |1029| [Two City Scheduling](https://leetcode.com/problems/two-city-scheduling/) | [Java](src/array/twoCityScheduling/TwoCityScheduling.java) |Easy|
 |1035| [Uncrossed Lines](https://leetcode.com/problems/uncrossed-lines/) | [Java](src/dynamicProgram/uncrossedLines/UncrossedLines.java) |Medium|
+|1047| [Remove All Adjacent Duplicates In String](https://leetcode-cn.com/problems/remove-all-adjacent-duplicates-in-string/) | [Java](src/stack/removeAllAdjacentDuplicatesInString/RemoveAllAdjacentDuplicatesInString.java) |Medium|
 |1051| [Height Checker](https://leetcode.com/problems/height-checker/) | [Java](src/array/heightChecker/HeightChecker.java) |Easy|
 |1052| [Grumpy Bookstore Owner](https://leetcode-cn.com/problems/grumpy-bookstore-owner/) | [Java](src/array/grumpyBookstoreOwner/GrumpyBookstoreOwner.java) |Medium|
 |1089| [Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros/) | [Java](src/com/eric/DuplicateZeros.java) |Easy|

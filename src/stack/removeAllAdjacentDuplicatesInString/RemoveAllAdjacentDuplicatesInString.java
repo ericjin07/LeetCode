@@ -6,6 +6,8 @@ package stack.removeAllAdjacentDuplicatesInString;
  * Date: 07/08/2019 1:20 AM
  */
 
+import java.util.Deque;
+import java.util.LinkedList;
 import java.util.Stack;
 
 /**
@@ -46,5 +48,36 @@ public class RemoveAllAdjacentDuplicatesInString {
             }
         }
         return sb.toString();
+    }
+
+    public String removeDuplicates_2(String S) {
+        Deque<Character> stack = new LinkedList<>();
+        char[] chars = S.toCharArray();
+        for(char c : chars) {
+            if (stack.isEmpty() || stack.peek() != c) {
+                stack.push(c);
+            } else {
+                stack.poll();
+            }
+        }
+        StringBuilder sb = new StringBuilder();
+        while (!stack.isEmpty()) {
+            sb.append(stack.poll());
+        }
+        return sb.reverse().toString();
+    }
+
+    public String removeDuplicates_3(String S) {
+        char[] chars = S.toCharArray();
+        int left = -1;
+        for (char c : chars) {
+            if (left != -1 && chars[left] == c) {
+                left--;
+            } else {
+                left++;
+                chars[left] = c;
+            }
+        }
+        return new String(chars, 0, left + 1);
     }
 }
