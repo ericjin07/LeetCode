@@ -77,6 +77,7 @@
 |303| [Range Sum Query - Immutable](https://leetcode-cn.com/problems/range-sum-query-immutable/) | [Java](src/dynamicProgram/rangeSumQuery/RangeSumQuery.java) |Easy|
 |303| [Range Sum Query 2D - Immutable](https://leetcode-cn.com/problems/range-sum-query-2d-immutable/) | [Java](src/dynamicProgram/rangeSumQuery2dImmutable/RangeSumQuery2dImmutable.java) |Medium|
 |328| [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/) | [Java](src/linkedList/oddEvenList/OddEvenList.java) |Medium|
+|331| [Verify Preorder Serialization of a Binary Tree](https://leetcode-cn.com/problems/verify-preorder-serialization-of-a-binary-tree/) | [Java](src/stack/verifyPreorderSerializationBinaryTree/VerifyPreorderSerializationBinaryTree.java) |Medium|
 |338| [Counting Bits](https://leetcode.com/problems/counting-bits/) | [Java](src/dynamicProgram/countingBits) |Medium|
 |342| [Power of Four](https://leetcode.com/problems/power-of-four/) | [Java](src/math/powerOfFour/PowerOfFour.java) |Medium|
 |344| [Reverse String](https://leetcode.com/problems/reverse-string/) | [Java](src/string/reverseString/ReverseString.java) |Easy|
