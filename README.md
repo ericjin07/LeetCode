@@ -23,6 +23,7 @@
 |35| [Search Insert Position](https://leetcode.com/problems/search-insert-position/description/) | [Java](src/array/searchInsertPosition/SearchInsertPosition.java) |Easy|
 |38| [Count and Say](https://leetcode.com/problems/count-and-say/description/) | [Java](src/string/countAndSay/CountAndSay.java) |Easy|
 |53| [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/) | [Java](src/array/maximumSubarray/MaximumSubarray.java) |Easy|
+|54| [Spiral Matrix](https://leetcode-cn.com/problems/spiral-matrix/) | [Java](src/array/spiralMatrix/SpiralMatrix.java) |Medium|
 |58| [Length of Last Word](https://leetcode.com/problems/length-of-last-word/description/) | [Java](src/string/lengthOfLastWord/LengthOfLastWord.java) |Easy|
 |66| [Plus One](https://leetcode.com/problems/plus-one/description/) | [Java](src/array/plusOne/PlusOne.java) |Easy|
 |67| [Add Binary](https://leetcode.com/problems/add-binary/description/) | [Java](src/string/addbinary/AddBinary.java) |Easy|
@@ -118,6 +119,7 @@
 |665| [Non-decreasing Array](https://leetcode-cn.com/problems/non-decreasing-array/) | [Java](src/array/nonDecreasingArray/NonDecreasingArray.java) |Medium|
 |697| [Degree of an Array](https://leetcode-cn.com/problems/degree-of-an-array/) | [Java](src/array/degreeOfAnArray/DegreeOfAnArray.java) |Easy|
 |700| [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/) | [Java](src/tree/searchInBinarySearchTree/SearchinaBinarySearchTree.java) |Easy|
+|705| [Design HashSet](https://leetcode-cn.com/problems/design-hashset/) | [Java](src/hashtable/myHashSet/MyHashSet.java) |Easy|
 |724| [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) | [Java](src/com/eric/FindPivotIndex.java) |Easy|
 |733| [Flood Fill](https://leetcode.com/problems/flood-fill/) | [Java](src/array/floodFill/FloodFill.java) |Easy|
 |746| [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/) | [Java](src/com/eric/MinCostClimbingStairs.java) |Easy|
