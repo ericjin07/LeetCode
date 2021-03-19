@@ -172,6 +172,7 @@
 |1346| [Check If N and Its Double Exist](https://leetcode.com/problems/check-if-n-and-its-double-exist/) | [Java](src/array/checkIfDoubleExist/CheckIfDoubleExist.java) |Easy|
 |1394| [Find Lucky Integer in an Array](https://leetcode.com/problems/find-lucky-integer-in-an-array/) | [Java](src/array/findLuckyIntegerInAnArray/FindLuckyIntegerInAnArray.java) |Easy|
 |1438| [Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit](https://leetcode-cn.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | [Java](src/array/longestSubarray/LongestSubarray.java) |Easy|
+|1603| [Design Parking System](https://leetcode-cn.com/problems/design-parking-system/) | [Java](src/design/parkingSystem/ParkingSystem.java) |Easy|
 
 ### Concurrency
 | #  | Title | Solution | Difficulty|
