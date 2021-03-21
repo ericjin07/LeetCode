@@ -29,6 +29,7 @@
 |67| [Add Binary](https://leetcode.com/problems/add-binary/description/) | [Java](src/string/addbinary/AddBinary.java) |Easy|
 |69| [Sqrt(x)](https://leetcode.com/problems/sqrtx/description/) | [Java](src/math/sqrtofx/SqrtOfX.java) |Easy|
 |70| [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/) | [Java](src/dynamicProgram/climbingStairs/ClimbingStairs.java) |Easy|
+|73| [Set Matrix Zeroes](https://leetcode-cn.com/problems/set-matrix-zeroes/) | [Java](src/array/setMatrixZeroes/SetMatrixZeroes.java) |Medium|
 |75| [Sort Colors](https://leetcode.com/problems/sort-colors/) | [Java](src/array/sortColors/SortColors.java) |Easy|
 |76| [Minimum Window Substring](https://leetcode-cn.com/problems/minimum-window-substring/) | [Java](src/string/minimumWindowSubstring/MinimumWindowSubstring.java) |Hard|
 |83| [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/) | [Java](src/linkedList/removeDuplicatesfromSortedList/RemoveDuplicatesfromSortedList.java) |Easy|
