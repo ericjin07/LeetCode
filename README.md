@@ -63,6 +63,7 @@
 |171| [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/) | [Java](src/math/excelSheetColumnNumber/ExcelSheetColumnNumber.java) |Easy|
 |172| [Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/) | [Java](src/math/factorialTrailingZeroes/FactorialTrailingZeroes.java) |Easy|
 |189| [Rotate Array](https://leetcode.com/problems/rotate-array/) | [Java](src/array/rotateArray/RotateArray.java) |Easy|
+|191| [Number of 1 Bits](https://leetcode-cn.com/problems/number-of-1-bits/) | [Java](src/bitManipulation/numberOf1Bits/NumberOf1Bits.java) |Easy|
 |202| [Happy Number](https://leetcode.com/problems/happy-number/) | [Java](src/com/eric/happyNumber/HappyNumber.java) |Easy|
 |208| [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/) | [Java](src/tree/implementTrie/ImplementTrie.java) |Medium|
 |217| [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [Java](src/array/containsDuplicate/ContainsDuplicate.java) |Easy|
