@@ -105,6 +105,7 @@
 |451| [Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/) | [Java](src/string/sortCharactersByFrequency/SortCharactersByFrequency.java) |Medium|
 |451| [Minimum Number of Arrows to Burst Balloons](https://leetcode-cn.com/problems/minimum-number-of-arrows-to-burst-balloons/) | [Java](src/greedy/minimumNumberArrowsBurstBalloons/MinimumNumberArrowsBurstBalloons.java) |Medium|
 |455| [Assign Cookies](https://leetcode-cn.com/problems/assign-cookies/) | [Java](src/greedy/assignCookies/AssignCookies.java) |Easy|
+|456| [132 Pattern](https://leetcode-cn.com/problems/132-pattern/) | [Java](src/stack/pattern132/Pattern132.java) |Easy|
 |476| [Number Complement](https://leetcode.com/problems/number-complement/) | [Java](src/com/eric/numberComplement/NumberComplement.java) |Easy|
 |485| [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | [Java](src/array/maxConsecutiveOnes/MaxConsecutiveOnes.java) |Easy|
 |496| [Next Greater Element I](https://leetcode-cn.com/problems/next-greater-element-i/) | [Java](src/stack/nextGreaterElement1/NextGreaterElement1.java) |Easy|
