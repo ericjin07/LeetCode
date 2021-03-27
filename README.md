@@ -25,6 +25,7 @@
 |53| [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/) | [Java](src/array/maximumSubarray/MaximumSubarray.java) |Easy|
 |54| [Spiral Matrix](https://leetcode-cn.com/problems/spiral-matrix/) | [Java](src/array/spiralMatrix/SpiralMatrix.java) |Medium|
 |58| [Length of Last Word](https://leetcode.com/problems/length-of-last-word/description/) | [Java](src/string/lengthOfLastWord/LengthOfLastWord.java) |Easy|
+|61| [Rotate List](https://leetcode-cn.com/problems/rotate-list/) | [Java](src/linkedList/rotateList/RotateList.java) |Medium|
 |66| [Plus One](https://leetcode.com/problems/plus-one/description/) | [Java](src/array/plusOne/PlusOne.java) |Easy|
 |67| [Add Binary](https://leetcode.com/problems/add-binary/description/) | [Java](src/string/addbinary/AddBinary.java) |Easy|
 |69| [Sqrt(x)](https://leetcode.com/problems/sqrtx/description/) | [Java](src/math/sqrtofx/SqrtOfX.java) |Easy|
