@@ -64,6 +64,7 @@
 |169| [Majority Element](https://leetcode.com/problems/majority-element/) | [Java](src/array/majorityElement/MajorityElement.java) |Easy|
 |171| [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/) | [Java](src/math/excelSheetColumnNumber/ExcelSheetColumnNumber.java) |Easy|
 |172| [Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/) | [Java](src/math/factorialTrailingZeroes/FactorialTrailingZeroes.java) |Easy|
+|173| [Binary Search Tree Iterator](https://leetcode-cn.com/problems/binary-search-tree-iterator/) | [Java](src/tree/binarySearchTreeIterator/BSTIterator.java) |Medium|
 |189| [Rotate Array](https://leetcode.com/problems/rotate-array/) | [Java](src/array/rotateArray/RotateArray.java) |Easy|
 |191| [Number of 1 Bits](https://leetcode-cn.com/problems/number-of-1-bits/) | [Java](src/bitManipulation/numberOf1Bits/NumberOf1Bits.java) |Easy|
 |202| [Happy Number](https://leetcode.com/problems/happy-number/) | [Java](src/com/eric/happyNumber/HappyNumber.java) |Easy|
