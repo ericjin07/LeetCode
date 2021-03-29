@@ -66,6 +66,7 @@
 |172| [Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/) | [Java](src/math/factorialTrailingZeroes/FactorialTrailingZeroes.java) |Easy|
 |173| [Binary Search Tree Iterator](https://leetcode-cn.com/problems/binary-search-tree-iterator/) | [Java](src/tree/binarySearchTreeIterator/BSTIterator.java) |Medium|
 |189| [Rotate Array](https://leetcode.com/problems/rotate-array/) | [Java](src/array/rotateArray/RotateArray.java) |Easy|
+|190| [Reverse Bits](https://leetcode-cn.com/problems/reverse-bits/) | [Java](src/bitManipulation/reverseBit/ReverseBit.java) |Easy|
 |191| [Number of 1 Bits](https://leetcode-cn.com/problems/number-of-1-bits/) | [Java](src/bitManipulation/numberOf1Bits/NumberOf1Bits.java) |Easy|
 |202| [Happy Number](https://leetcode.com/problems/happy-number/) | [Java](src/com/eric/happyNumber/HappyNumber.java) |Easy|
 |208| [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/) | [Java](src/tree/implementTrie/ImplementTrie.java) |Medium|
