@@ -31,6 +31,7 @@
 |69| [Sqrt(x)](https://leetcode.com/problems/sqrtx/description/) | [Java](src/math/sqrtofx/SqrtOfX.java) |Easy|
 |70| [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/) | [Java](src/dynamicProgram/climbingStairs/ClimbingStairs.java) |Easy|
 |73| [Set Matrix Zeroes](https://leetcode-cn.com/problems/set-matrix-zeroes/) | [Java](src/array/setMatrixZeroes/SetMatrixZeroes.java) |Medium|
+|74| [Search a 2D Matrix](https://leetcode-cn.com/problems/search-a-2d-matrix/) | [Java](src/array/search2DMatrix/Search2DMatrix.java) |Medium|
 |75| [Sort Colors](https://leetcode.com/problems/sort-colors/) | [Java](src/array/sortColors/SortColors.java) |Easy|
 |76| [Minimum Window Substring](https://leetcode-cn.com/problems/minimum-window-substring/) | [Java](src/string/minimumWindowSubstring/MinimumWindowSubstring.java) |Hard|
 |82| [Remove Duplicates from Sorted List II](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list-ii/) | [Java](src/linkedList/removeDuplicatesfromSortedList_2/RemoveDuplicatesfromSortedList_2.java) |Medium|
