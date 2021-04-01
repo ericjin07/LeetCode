@@ -163,6 +163,7 @@
 |993| [Cousins in Binary Tree](https://leetcode.com/problems/cousins-in-binary-tree/) | [Java](src/tree/cousinsInBinaryTree/CousinsInBinaryTree.java) |Easy|
 |997| [Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/) | [Java](src/array/findTheTownJudge/FindTheTownJudge.java) |Easy|
 |1004| [Max Consecutive Ones III](https://leetcode-cn.com/problems/max-consecutive-ones-iii/) | [Java](src/array/maxConsecutiveOnes_3) |Medium|
+|1006| [Clumsy Factorial](https://leetcode-cn.com/problems/clumsy-factorial/) | [Java](src/math/clumsyFactorial/ClumsyFactorial.java) |Medium|
 |1008| [Construct Binary Search Tree from Preorder Traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/) | [Java](src/tree/constructBSTfromPreorderTraversal/ConstructBSTfromPreorderTraversal.java) |Medium|
 |1010| [Pairs of Songs With Total Durations Divisible by 60](https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60/) | [Java](src/com/eric/PairsOfSongsWithTotalDurationsDivisibleBy60.java) |Easy|
 |1013| [Partition Array Into Three Parts With Equal Sum](https://leetcode.com/problems/partition-array-into-three-parts-with-equal-sum/) | [Java](src/com/eric/PartitionArrayIntoThreePartsWithEqualSum.java) |Easy|
