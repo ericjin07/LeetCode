@@ -62,6 +62,7 @@
 |141| [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [Java](src/linkedList/LinkedListCycle/LinkedListCycle.java) |Easy|
 |142| [Linked List Cycle II](https://leetcode-cn.com/problems/linked-list-cycle-ii/) | [Java](src/linkedList/linkedListCycle_2/LinkedListCycle_2.java) |Medium|
 |150| [Evaluate Reverse Polish Notation](https://leetcode-cn.com/problems/evaluate-reverse-polish-notation/) | [Java](src/stack/evaluateReversePolishNotation/EvaluateReversePolishNotation.java) |Medium|
+|153| [Find Minimum in Rotated Sorted Array](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array/) | [Java](src/array/findMinimumRotatedSortedArray/FindMinimumRotatedSortedArray.java) |Medium|
 |155| [Min Stack](https://leetcode.com/problems/min-stack/) | [Java](src/stack/minStack/MinStack.java) |Easy|
 |160| [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) | [Java](src/linkedList/intersectionofTwoLinkedLists/IntersectionofTwoLinkedLists.java) |Easy|
 |167| [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [Java](src/array/twoSum2/TwoSum2.java) |Easy|
@@ -86,6 +87,7 @@
 |232| [Implement Queue using Stacks](https://leetcode-cn.com/problems/implement-queue-using-stacks/) | [Java](src/stack/implementQueueUsingStack/MyQueue.java) |Easy|
 |237| [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) | [Java](src/linkedList/deleteNode/DeleteNode.java) |Easy|
 |252| [Meeting Rooms](https://leetcode.com/problems/meeting-rooms/) | [Java](src/greedy/meetingRoom/MeetingRoom.java) |Easy|
+|263| [Ugly Number](https://leetcode-cn.com/problems/ugly-number/) | [Java](src/math/uglyNumber/UglyNumber.java) |Easy|
 |268| [Missing Number](https://leetcode.com/problems/missing-number/) | [Java](src/array/MissingNumber/MissingNumber.java) |Easy|
 |278| [First Bad Version](https://leetcode.com/problems/first-bad-version/) | [Java](src/com/eric/firstBadVersion/FirstBadVersion.java) |Easy|
 |283| [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [Java](src/array/moveZeroes/MoveZeroes.java) |Easy|
