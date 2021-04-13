@@ -146,6 +146,7 @@
 |763| [Partition Labels](https://leetcode.com/problems/partition-labels/) | [Java](src/greedy/partitionLabels/PartitionLabels.java) |Medium|
 |766| [Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix/) | [Java](src/com/eric/ToeplitzMatrix.java) |Easy|
 |771| [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/) | [Java](src/com/eric/jewelsandStones/JewelsandStones.java) |Easy|
+|783| [Minimum Distance Between BST Nodes](https://leetcode-cn.com/problems/minimum-distance-between-bst-nodes/) | [Java](src/tree/minimumDistanceBetweenBSTNodes/MinimumDistanceBetweenBSTNodes.java) |Easy|
 |830| [Positions of Large Groups](https://leetcode.com/problems/positions-of-large-groups/) | [Java](src/com/eric/PositionsOfLargeGroups.java) |Easy|
 |832| [Flipping an Image](https://leetcode.com/problems/flipping-an-image/) | [Java](src/com/eric/FlippingAnImage.java) |Easy|
 |840| [Magic Squares In Grid](https://leetcode.com/problems/magic-squares-in-grid/) | [Java](src/com/eric/MagicSquaresInGrid.java) |Easy|
