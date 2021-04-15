@@ -77,6 +77,7 @@
 |191| [Number of 1 Bits](https://leetcode-cn.com/problems/number-of-1-bits/) | [Java](src/bitManipulation/numberOf1Bits/NumberOf1Bits.java) |Easy|
 |202| [Happy Number](https://leetcode.com/problems/happy-number/) | [Java](src/com/eric/happyNumber/HappyNumber.java) |Easy|
 |208| [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/) | [Java](src/tree/implementTrie/ImplementTrie.java) |Medium|
+|213| [House Robber II](https://leetcode-cn.com/problems/house-robber-ii/) | [Java](src/dynamicProgram/houseRobber_2/HouseRobberII.java) |Medium|
 |217| [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [Java](src/array/containsDuplicate/ContainsDuplicate.java) |Easy|
 |219| [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii) | [Java](src/array/containsDuplicate2/ContainsDuplicate.java) |Easy|
 |224| [Basic Calculator](https://leetcode-cn.com/problems/basic-calculator/) | [Java](src/stack/basicCalculator/BasicCalculator.java) |Hard|
