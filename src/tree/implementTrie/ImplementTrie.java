@@ -1,8 +1,5 @@
 package tree.implementTrie;
 
-import java.util.ArrayList;
-import java.util.LinkedList;
-import java.util.List;
 
 /**
  * Create by IntelliJ IDEA.
@@ -30,8 +27,16 @@ public class ImplementTrie {
 
     class Trie {
 
-
         TrieNode root;
+        class TrieNode {
+            TrieNode[] child;
+            boolean isLeaf;
+
+            public TrieNode() {
+                this.child = new TrieNode[26];
+                this.isLeaf = false;
+            }
+        }
 
         /** Initialize your data structure here. */
         public Trie() {
@@ -41,11 +46,13 @@ public class ImplementTrie {
         /** Inserts a word into the trie. */
         public void insert(String word) {
             TrieNode cur = root;
-            for (int i = 0; i < word.length(); i++) {
-                if (cur.child[word.charAt(i) - 'a'] == null) {
-                    cur.child[word.charAt(i) - 'a'] =  new TrieNode();
+            int len = word.length();
+            for (int i = 0; i < len; i++) {
+                int index = word.charAt(i) - 'a';
+                if (cur.child[index] == null) {
+                    cur.child[index] = new TrieNode();
                 }
-                cur = cur.child[word.charAt(i) - 'a'];
+                cur = cur.child[index];
             }
             cur.isLeaf = true;
         }
@@ -53,9 +60,12 @@ public class ImplementTrie {
         /** Returns if the word is in the trie. */
         public boolean search(String word) {
             TrieNode cur = root;
-            for (int i = 0; i < word.length(); i++) {
-                cur = cur.child[word.charAt(i) - 'a'];
-                if (cur == null) return false;
+            int len = word.length();
+            for (int i = 0; i < len; i++) {
+                int index = word.charAt(i) - 'a';
+                if ((cur = cur.child[index]) == null) {
+                    return false;
+                }
             }
             return cur.isLeaf;
         }
@@ -63,20 +73,14 @@ public class ImplementTrie {
         /** Returns if there is any word in the trie that starts with the given prefix. */
         public boolean startsWith(String prefix) {
             TrieNode cur = root;
-            for (int i = 0; i < prefix.length(); i++) {
-                cur = cur.child[prefix.charAt(i) - 'a'];
-                if (cur == null) return false;
+            int len = prefix.length();
+            for (int i = 0; i < len; i++) {
+                int index = prefix.charAt(i) - 'a';
+                if ((cur = cur.child[index]) == null) {
+                    return false;
+                }
             }
             return true;
-        }
-
-        class TrieNode {
-            boolean isLeaf;
-            TrieNode[] child;
-
-            public TrieNode() {
-                this.child = new TrieNode[26];
-            }
         }
     }
 }
