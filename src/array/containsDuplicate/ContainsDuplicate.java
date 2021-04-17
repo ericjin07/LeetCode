@@ -6,6 +6,7 @@ package array.containsDuplicate;
  * Date: 02/12/2019 11:14 AM
  */
 
+import java.util.Arrays;
 import java.util.HashSet;
 import java.util.Set;
 
@@ -37,6 +38,14 @@ public class ContainsDuplicate {
         for (int i=0;i<len;i++){
             if (!set.add(nums[i]))
                 return true;
+        }
+        return false;
+    }
+
+    public boolean containsDuplicate_2(int[] nums) {
+        Arrays.sort(nums);
+        for (int i = 0; i < nums.length - 1; i++) {
+            if (nums[i] == nums[i + 1]) return true;
         }
         return false;
     }
