@@ -80,6 +80,7 @@
 |213| [House Robber II](https://leetcode-cn.com/problems/house-robber-ii/) | [Java](src/dynamicProgram/houseRobber_2/HouseRobberII.java) |Medium|
 |217| [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [Java](src/array/containsDuplicate/ContainsDuplicate.java) |Easy|
 |219| [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii) | [Java](src/array/containsDuplicate2/ContainsDuplicate.java) |Easy|
+|220| [Contains Duplicate III](https://leetcode-cn.com/problems/contains-duplicate-iii/) | [Java](src/array/containsDuplicate3/ContainsDuplicate.java) |Medium|
 |224| [Basic Calculator](https://leetcode-cn.com/problems/basic-calculator/) | [Java](src/stack/basicCalculator/BasicCalculator.java) |Hard|
 |226| [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | [Java](src/tree/invertBinaryTree/InvertBinaryTree.java) |Easy|
 |227| [Basic Calculator II](https://leetcode-cn.com/problems/basic-calculator-ii/) | [Java](src/stack/basicCalculator_2/BasicCalculator_2.java) |Medium|
