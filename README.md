@@ -158,6 +158,7 @@
 |876| [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | [Java](src/linkedList/middleLinkedList/MiddleOfTheLinkedList.java) |Easy|
 |888| [Transpose Matrix](https://leetcode.com/problems/fair-candy-swap/) | [Java](src/com/eric/FairCandySwap.java) |Easy|
 |896| [Monotonic Array](https://leetcode.com/problems/monotonic-array/) | [Java](src/com/eric/MonotonicArray.java) |Easy|
+|897| [Increasing Order Search Tree](https://leetcode-cn.com/problems/increasing-order-search-tree/) | [Java](src/tree/increasingOrderSearchTree/IncreasingOrderSearchTree.java) |Easy|
 |905| [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/) | [Java](src/com/eric/SortArrayByParity.java) |Easy|
 |914| [X of a Kind in a Deck of Cards](https://leetcode.com/problems/x-of-a-kind-in-a-deck-of-cards/) | [Java](src/com/eric/XOfAKindInADeckOfCards.java) |Easy|
 |918| [Maximum Sum Circular Subarray](https://leetcode.com/problems/maximum-sum-circular-subarray/) | [Java](src/array/maximumSumCircularSubarray/MaximumSumCircularSubarray.java) |Medium|
