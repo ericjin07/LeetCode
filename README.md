@@ -176,6 +176,7 @@
 |1006| [Clumsy Factorial](https://leetcode-cn.com/problems/clumsy-factorial/) | [Java](src/math/clumsyFactorial/ClumsyFactorial.java) |Medium|
 |1008| [Construct Binary Search Tree from Preorder Traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/) | [Java](src/tree/constructBSTfromPreorderTraversal/ConstructBSTfromPreorderTraversal.java) |Medium|
 |1010| [Pairs of Songs With Total Durations Divisible by 60](https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60/) | [Java](src/com/eric/PairsOfSongsWithTotalDurationsDivisibleBy60.java) |Easy|
+|1011| [Capacity To Ship Packages Within D Days](https://leetcode-cn.com/problems/capacity-to-ship-packages-within-d-days/) | [Java](src/com/eric/binarySearch/shipWithinDays/ShipWithinDays.java) |Medium|
 |1013| [Partition Array Into Three Parts With Equal Sum](https://leetcode.com/problems/partition-array-into-three-parts-with-equal-sum/) | [Java](src/com/eric/PartitionArrayIntoThreePartsWithEqualSum.java) |Easy|
 |1029| [Two City Scheduling](https://leetcode.com/problems/two-city-scheduling/) | [Java](src/array/twoCityScheduling/TwoCityScheduling.java) |Easy|
 |1035| [Uncrossed Lines](https://leetcode.com/problems/uncrossed-lines/) | [Java](src/dynamicProgram/uncrossedLines/UncrossedLines.java) |Medium|
