@@ -140,6 +140,7 @@
 |665| [Non-decreasing Array](https://leetcode-cn.com/problems/non-decreasing-array/) | [Java](src/array/nonDecreasingArray/NonDecreasingArray.java) |Medium|
 |697| [Degree of an Array](https://leetcode-cn.com/problems/degree-of-an-array/) | [Java](src/array/degreeOfAnArray/DegreeOfAnArray.java) |Easy|
 |700| [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/) | [Java](src/tree/searchInBinarySearchTree/SearchinaBinarySearchTree.java) |Easy|
+|704| [Binary Search](https://leetcode-cn.com/problems/binary-search/) | [Java](src/array/binarySearch/BinarySearch.java) |Easy|
 |705| [Design HashSet](https://leetcode-cn.com/problems/design-hashset/) | [Java](src/hashtable/myHashSet/MyHashSet.java) |Easy|
 |724| [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) | [Java](src/com/eric/FindPivotIndex.java) |Easy|
 |733| [Flood Fill](https://leetcode.com/problems/flood-fill/) | [Java](src/array/floodFill/FloodFill.java) |Easy|
