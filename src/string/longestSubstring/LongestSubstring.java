@@ -53,15 +53,15 @@ public class LongestSubstring {
      * @return
      */
     public int lengthOfLongestSubstringUsingSlideWindow(String s) {
-        Map<Character,Integer> map = new HashMap<>();
-        int max = 0;
-        for (int i = 0 , j = 0; i < s.length(); i++) {
+        Map<Character, Integer> map = new HashMap<>();
+        int left = 0, res = 0;
+        for (int i = 0; i < s.length(); i++) {
             if (map.containsKey(s.charAt(i))) {
-                j = Math.max(j, map.get(s.charAt(i)));
+                left = Math.max(left, map.get(s.charAt(i)) + 1); // move the left duplicate character out the window
             }
-            max = Math.max(max, i - j + 1);
-            map.put(s.charAt(i), i + 1);
+            res = Math.max(res, i - left + 1);
+            map.put(s.charAt(i), i);
         }
-        return max;
+        return res;
     }
 }
