@@ -1,5 +1,8 @@
 package array.floodFill;
 
+import java.util.LinkedList;
+import java.util.Queue;
+
 /**
  * Create by IntelliJ IDEA.
  * Author: EricJin
@@ -44,5 +47,49 @@ public class FloodFill {
             if (sc < image[0].length - 1 && image[sr][sc + 1] == oldColor) floodFill(image, sr, sc + 1, newColor);
         }
         return image;
+    }
+
+    public int[][] floodFill_bfs(int[][] image, int sr, int sc, int newColor) {
+        int [] xDlt = {1,0,0,-1}, yDlt = {0,1,-1,0};
+        int oldColor = image[sr][sc];
+        if (oldColor == newColor) {
+            return image;
+        }
+        Queue<int[]> queue = new LinkedList<>();
+        queue.offer(new int[]{sr, sc});
+        image[sr][sc] = newColor;
+        int col = image.length, row = image[0].length;
+        while (!queue.isEmpty()) {
+            int[] point = queue.poll();
+            for (int i = 0; i < 4; i++) {
+                int x = point[0] + xDlt[i], y = point[1] + yDlt[i];
+                if (x >= 0 && x < col && y >= 0 && y < row && image[x][y] == oldColor) {
+                    queue.offer(new int[] {x, y});
+                    image[x][y] = newColor;
+                }
+            }
+        }
+        return image;
+    }
+
+    int [] xDlt = {1,0,0,-1}, yDlt = {0,1,-1,0};
+    public int[][] floodFill_dfs(int[][] image, int sr, int sc, int newColor) {
+        int oldColor = image[sr][sc];
+        if (oldColor != newColor) {
+            dfs(image, sr, sc, oldColor, newColor);
+        }
+        return image;
+    }
+
+    private void dfs(int[][] image, int sr, int sc, int oldColor, int newColor) {
+        if (image[sr][sc] == oldColor) {
+            image[sr][sc] = newColor;
+            for (int i = 0; i < 4; i++) {
+                int x = sr + xDlt[i], y = sc + yDlt[i];
+                if (x >= 0 && x < image.length && y >= 0 && y < image[0].length && image[x][y] == oldColor) {
+                    dfs(image, x, y, oldColor, newColor);
+                }
+            }
+        }
     }
 }
