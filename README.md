@@ -140,6 +140,7 @@
 |581| [Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/) | [Java](src/array/shortestUnsortedContinuousSubarray/ShortestUnsortedContinuousSubarray.java) |Easy|
 |605| [Can Place Flowers](https://leetcode.com/problems/can-place-flowers/) | [Java](src/array/canPlaceFlowers/CanPlaceFlowers.java) |Easy|
 |665| [Non-decreasing Array](https://leetcode-cn.com/problems/non-decreasing-array/) | [Java](src/array/nonDecreasingArray/NonDecreasingArray.java) |Medium|
+|695| [Max Area of Island](https://leetcode-cn.com/problems/max-area-of-island/) | [Java](src/graph/maxAreaOfIsland/MaxAreaOfIsland.java) |Medium|
 |697| [Degree of an Array](https://leetcode-cn.com/problems/degree-of-an-array/) | [Java](src/array/degreeOfAnArray/DegreeOfAnArray.java) |Easy|
 |700| [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/) | [Java](src/tree/searchInBinarySearchTree/SearchinaBinarySearchTree.java) |Easy|
 |704| [Binary Search](https://leetcode-cn.com/problems/binary-search/) | [Java](src/array/binarySearch/BinarySearch.java) |Easy|
