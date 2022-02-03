@@ -1,5 +1,7 @@
 package string.permutationInString;
 
+import java.util.Arrays;
+
 /**
  * Create by IntelliJ IDEA.
  * Author: EricJin
@@ -41,4 +43,101 @@ public class PermutationInString {
         }
         return false;
     }
+
+    /**
+     * slide window
+     */
+    public boolean checkInclusion_slide_window(String s1, String s2) {
+        int n = s1.length(), m = s2.length();
+        if (n > m) {
+            return false;
+        }
+        int[] cnt1 = new int[26];
+        int[] cnt2 = new int[26];
+        for (int i = 0; i < n; i++) {
+            ++cnt1[s1.charAt(i) - 'a'];
+            ++cnt2[s2.charAt(i) - 'a'];
+        }
+        if (Arrays.equals(cnt1, cnt2)) {
+            return true;
+        }
+        for (int i = n; i < m; i++) {
+            ++cnt2[s2.charAt(i) - 'a'];
+            --cnt2[s2.charAt(i-n) - 'a'];
+            if (Arrays.equals(cnt1, cnt2)) {
+                return true;
+            }
+        }
+        return false;
+    }
+
+    public boolean checkInclusion_two_point(String s1, String s2) {
+        int n = s1.length(), m = s2.length();
+        if (n > m) {
+            return false;
+        }
+        int[] cnt1 = new int[26];
+        int[] cnt2 = new int[26];
+        for (int i = 0; i < n; i++) {
+            ++cnt1[s1.charAt(i) - 'a'];
+            ++cnt2[s2.charAt(i) - 'a'];
+        }
+        if (Arrays.equals(cnt1, cnt2)) {
+            return true;
+        }
+        for (int i = n; i < m; i++) {
+            ++cnt2[s2.charAt(i) - 'a'];
+            --cnt2[s2.charAt(i-n) - 'a'];
+            if (Arrays.equals(cnt1, cnt2)) {
+                return true;
+            }
+        }
+        return false;
+    }
+
+    public boolean checkInclusion_two_point_improv(String s1, String s2) {
+        int n = s1.length(), m = s2.length();
+        if (n > m) {
+            return false;
+        }
+        int[] cnt = new int[26];
+        for (int i = 0; i < n; ++i) {
+            --cnt[s1.charAt(i) - 'a'];
+            ++cnt[s2.charAt(i) - 'a'];
+        }
+        int diff = 0;
+        for (int c : cnt) {
+            if (c != 0) {
+                ++diff;
+            }
+        }
+        if (diff == 0) {
+            return true;
+        }
+        for (int i = n; i < m; ++i) {
+            int x = s2.charAt(i) - 'a', y = s2.charAt(i - n) - 'a';
+            if (x == y) {
+                continue;
+            }
+            if (cnt[x] == 0) {
+                ++diff;
+            }
+            ++cnt[x];
+            if (cnt[x] == 0) {
+                --diff;
+            }
+            if (cnt[y] == 0) {
+                ++diff;
+            }
+            --cnt[y];
+            if (cnt[y] == 0) {
+                --diff;
+            }
+            if (diff == 0) {
+                return true;
+            }
+        }
+        return false;
+    }
+
 }
