@@ -139,6 +139,7 @@
 |567| [Permutation in String](https://leetcode.com/problems/permutation-in-string/) | [Java](src/string/permutationInString/PermutationInString.java) |Medium|
 |581| [Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/) | [Java](src/array/shortestUnsortedContinuousSubarray/ShortestUnsortedContinuousSubarray.java) |Easy|
 |605| [Can Place Flowers](https://leetcode.com/problems/can-place-flowers/) | [Java](src/array/canPlaceFlowers/CanPlaceFlowers.java) |Easy|
+|617| [Merge Two Binary Trees](https://leetcode-cn.com/problems/merge-two-binary-trees/) | [Java](src/tree/mergeTwoBinaryTrees/MergeTwoBinaryTrees.java) |Easy|
 |665| [Non-decreasing Array](https://leetcode-cn.com/problems/non-decreasing-array/) | [Java](src/array/nonDecreasingArray/NonDecreasingArray.java) |Medium|
 |695| [Max Area of Island](https://leetcode-cn.com/problems/max-area-of-island/) | [Java](src/graph/maxAreaOfIsland/MaxAreaOfIsland.java) |Medium|
 |697| [Degree of an Array](https://leetcode-cn.com/problems/degree-of-an-array/) | [Java](src/array/degreeOfAnArray/DegreeOfAnArray.java) |Easy|
