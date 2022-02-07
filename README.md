@@ -23,6 +23,7 @@
 |28| [Implement Str](https://leetcode.com/problems/implement-strstr/description/) | [Java](src/string/implementStrStr/ImplementStr.java) |Easy|
 |35| [Search Insert Position](https://leetcode.com/problems/search-insert-position/description/) | [Java](src/array/searchInsertPosition/SearchInsertPosition.java) |Easy|
 |38| [Count and Say](https://leetcode.com/problems/count-and-say/description/) | [Java](src/string/countAndSay/CountAndSay.java) |Easy|
+|46| [Permutations](https://leetcode-cn.com/problems/permutations/) | [Java](src/backtracking/permutations/Permutations.java) |Medium|
 |53| [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/) | [Java](src/array/maximumSubarray/MaximumSubarray.java) |Easy|
 |54| [Spiral Matrix](https://leetcode-cn.com/problems/spiral-matrix/) | [Java](src/array/spiralMatrix/SpiralMatrix.java) |Medium|
 |58| [Length of Last Word](https://leetcode.com/problems/length-of-last-word/description/) | [Java](src/string/lengthOfLastWord/LengthOfLastWord.java) |Easy|
