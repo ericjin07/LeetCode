@@ -78,6 +78,7 @@
 |190| [Reverse Bits](https://leetcode-cn.com/problems/reverse-bits/) | [Java](src/bitManipulation/reverseBit/ReverseBit.java) |Easy|
 |191| [Number of 1 Bits](https://leetcode-cn.com/problems/number-of-1-bits/) | [Java](src/bitManipulation/numberOf1Bits/NumberOf1Bits.java) |Easy|
 |202| [Happy Number](https://leetcode.com/problems/happy-number/) | [Java](src/com/eric/happyNumber/HappyNumber.java) |Easy|
+|206| [Reverse Linked List](https://leetcode-cn.com/problems/reverse-linked-list/) | [Java](src/linkedList/reverseLinkedList/ReverseLinkedList.java) |Easy|
 |208| [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/) | [Java](src/tree/implementTrie/ImplementTrie.java) |Medium|
 |213| [House Robber II](https://leetcode-cn.com/problems/house-robber-ii/) | [Java](src/dynamicProgram/houseRobber_2/HouseRobberII.java) |Medium|
 |217| [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [Java](src/array/containsDuplicate/ContainsDuplicate.java) |Easy|
@@ -179,6 +180,7 @@
 |989| [Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer/) | [Java](src/com/eric/AddToArrayFormOfInteger.java) |Easy|
 |992| [Subarrays with K Different Integers](https://leetcode-cn.com/problems/subarrays-with-k-different-integers/) | [Java](src/array/subarraysWithKdifferentIntegers/SubarraysWithKdifferentIntegers.java) |Hard|
 |993| [Cousins in Binary Tree](https://leetcode.com/problems/cousins-in-binary-tree/) | [Java](src/tree/cousinsInBinaryTree/CousinsInBinaryTree.java) |Easy|
+|994| [Rotting Oranges](https://leetcode-cn.com/problems/rotting-oranges/) | [Java](src/array/rottingOranges/RottingOranges.java) |Medium|
 |997| [Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/) | [Java](src/array/findTheTownJudge/FindTheTownJudge.java) |Easy|
 |1004| [Max Consecutive Ones III](https://leetcode-cn.com/problems/max-consecutive-ones-iii/) | [Java](src/array/maxConsecutiveOnes_3) |Medium|
 |1006| [Clumsy Factorial](https://leetcode-cn.com/problems/clumsy-factorial/) | [Java](src/math/clumsyFactorial/ClumsyFactorial.java) |Medium|
