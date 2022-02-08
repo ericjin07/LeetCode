@@ -79,6 +79,7 @@
 |189| [Rotate Array](https://leetcode.com/problems/rotate-array/) | [Java](src/array/rotateArray/RotateArray.java) |Medium|
 |190| [Reverse Bits](https://leetcode-cn.com/problems/reverse-bits/) | [Java](src/bitManipulation/reverseBit/ReverseBit.java) |Easy|
 |191| [Number of 1 Bits](https://leetcode-cn.com/problems/number-of-1-bits/) | [Java](src/bitManipulation/numberOf1Bits/NumberOf1Bits.java) |Easy|
+|198| [House Robber](https://leetcode-cn.com/problems/house-robber/) | [Java](src/dynamicProgram/houseRobber/HouseRobber.java) |Medium|
 |202| [Happy Number](https://leetcode.com/problems/happy-number/) | [Java](src/com/eric/happyNumber/HappyNumber.java) |Easy|
 |206| [Reverse Linked List](https://leetcode-cn.com/problems/reverse-linked-list/) | [Java](src/linkedList/reverseLinkedList/ReverseLinkedList.java) |Easy|
 |208| [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/) | [Java](src/tree/implementTrie/ImplementTrie.java) |Medium|
