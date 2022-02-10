@@ -212,6 +212,7 @@
 |1394| [Find Lucky Integer in an Array](https://leetcode.com/problems/find-lucky-integer-in-an-array/) | [Java](src/array/findLuckyIntegerInAnArray/FindLuckyIntegerInAnArray.java) |Easy|
 |1414| [Find the Minimum Number of Fibonacci Numbers Whose Sum Is K](https://leetcode-cn.com/problems/find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k/) | [Java](src/greedy/findMinFibonacciNumbers/FindMinFibonacciNumbers.java) |Medium|
 |1438| [Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit](https://leetcode-cn.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | [Java](src/array/longestSubarray/LongestSubarray.java) |Easy|
+|1447| [Simplified Fractions](https://leetcode-cn.com/problems/simplified-fractions/) | [Java](src/math/simplifiedFractions/SimplifiedFractions.java) |Medium|
 |1468| [XOR Operation in an Array](https://leetcode-cn.com/problems/xor-operation-in-an-array/) | [Java](src/math/XorOperationArray/XorOperation.java) |Easy|
 |1603| [Design Parking System](https://leetcode-cn.com/problems/design-parking-system/) | [Java](src/design/parkingSystem/ParkingSystem.java) |Easy|
 |2006| [Count Number of Pairs With Absolute Difference K](https://leetcode-cn.com/problems/count-number-of-pairs-with-absolute-difference-k/) | [Java](src/array/countKDifference/CountKDifference.java) |Easy|
