@@ -21,6 +21,7 @@
 |26| [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/) | [Java](src/array/removeDuplicates/RemoveDuplicates.java) |Easy|
 |27| [Remove Element](https://leetcode.com/problems/remove-element/description/) | [Java](src/array/removeElement/RemoveElement.java) |Easy|
 |28| [Implement Str](https://leetcode.com/problems/implement-strstr/description/) | [Java](src/string/implementStrStr/ImplementStr.java) |Easy|
+|33| [Search in Rotated Sorted Array](https://leetcode-cn.com/problems/search-in-rotated-sorted-array/) | [Java](src/com/eric/binarySearch/searchRotatedSortedArray/SearchRotatedSortedArray.java) |Medium|
 |34| [Find First and Last Position of Element in Sorted Array](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [Java](src/com/eric/binarySearch/findFirstAndLastInSortedArray/FindFirstAndLast.java) |Medium|
 |35| [Search Insert Position](https://leetcode.com/problems/search-insert-position/description/) | [Java](src/array/searchInsertPosition/SearchInsertPosition.java) |Easy|
 |38| [Count and Say](https://leetcode.com/problems/count-and-say/description/) | [Java](src/string/countAndSay/CountAndSay.java) |Easy|
