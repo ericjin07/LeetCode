@@ -22,7 +22,7 @@ public class FindLastSmallBinarySearch {
             if (a[mid] <= key) low = mid + 1;
             else high = mid - 1;
         }
-        if (high < n && a[high] <= key) return high;
+        if (high >=0 && a[high] <= key) return high;
         return -1;
     }
 
