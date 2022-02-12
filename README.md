@@ -72,6 +72,7 @@
 |153| [Find Minimum in Rotated Sorted Array](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array/) | [Java](src/array/findMinimumRotatedSortedArray/FindMinimumRotatedSortedArray.java) |Medium|
 |155| [Min Stack](https://leetcode.com/problems/min-stack/) | [Java](src/stack/minStack/MinStack.java) |Easy|
 |160| [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) | [Java](src/linkedList/intersectionofTwoLinkedLists/IntersectionofTwoLinkedLists.java) |Easy|
+|162| [Find Peak Element](https://leetcode-cn.com/problems/find-peak-element/) | [Java](src/com/eric/binarySearch/findPeakElement/FindPeakElement.java) |Medium|
 |167| [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [Java](src/array/twoSum2/TwoSum2.java) |Easy|
 |168| [Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/) | [Java](src/math/excelSheetColumnTitle/ExcelSheetColumnTitle.java) |Easy|
 |169| [Majority Element](https://leetcode.com/problems/majority-element/) | [Java](src/array/majorityElement/MajorityElement.java) |Easy|
