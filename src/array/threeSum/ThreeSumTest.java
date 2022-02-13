@@ -14,7 +14,7 @@ public class ThreeSumTest {
     @Test
     public void threeSum() {
         ThreeSum ts = new ThreeSum();
-        int [] nums = new int[]{0,0,0,0};
+        int [] nums = new int[]{-2,0,1,1,2};
         System.out.println(ts.threeSum(nums));
     }
 }

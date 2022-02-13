@@ -1,8 +1,6 @@
 package array.threeSum;
 
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.List;
+import java.util.*;
 
 /**
  * Create by IntelliJ IDEA.
@@ -50,6 +48,34 @@ public class ThreeSum {
                 } else if (target < (nums[lo] + nums[hi])) {
                     hi--;
                 } else lo++;
+            }
+        }
+        return res;
+    }
+
+    public List<List<Integer>> threeSum_improv(int[] nums) {
+        if (nums.length < 3) {
+            return new ArrayList<>();
+        }
+        List<List<Integer>> res = new ArrayList<>();
+        Arrays.sort(nums);
+
+        for (int i = 0; i < nums.length; i++) {
+            if (nums[i] > 0) return res;
+            if (i >= 1 && nums[i] == nums[i-1]) continue;
+
+            int low = i + 1, high = nums.length - 1;
+            int val = -nums[i];
+            while (low < high) {
+                if (val == (nums[low] + nums[high])) {
+                    res.add(Arrays.asList(nums[i], nums[low], nums[high]));
+                    while (low < high && nums[low] == nums[++low]);
+                    while (low < high && nums[high] == nums[--high]);
+                } else if (val < (nums[low] + nums[high])) {
+                    while (low < high && nums[high] == nums[--high]);
+                } else {
+                    while (low < high && nums[low] == nums[++low]);
+                }
             }
         }
         return res;
