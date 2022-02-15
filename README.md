@@ -216,6 +216,7 @@
 |1290| [Replace Elements with Greatest Element on Right Side](https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/) | [Java](src/array/replaceElementsWithGreatestElementOnRightSide/ReplaceElementsWithGreatestElementOnRightSide.java) |Easy|
 |1342| [Number of Steps to Reduce a Number to Zero](https://leetcode-cn.com/problems/number-of-steps-to-reduce-a-number-to-zero/solution/) | [Java](src/math/stepToZero/StepToZero.java) |Easy|
 |1346| [Check If N and Its Double Exist](https://leetcode.com/problems/check-if-n-and-its-double-exist/) | [Java](src/array/checkIfDoubleExist/CheckIfDoubleExist.java) |Easy|
+|1380| [Lucky Numbers in a Matrix](https://leetcode-cn.com/problems/lucky-numbers-in-a-matrix/) | [Java](src/array/luckyNumbers/LuckyNumbers.java) |Easy|
 |1394| [Find Lucky Integer in an Array](https://leetcode.com/problems/find-lucky-integer-in-an-array/) | [Java](src/array/findLuckyIntegerInAnArray/FindLuckyIntegerInAnArray.java) |Easy|
 |1414| [Find the Minimum Number of Fibonacci Numbers Whose Sum Is K](https://leetcode-cn.com/problems/find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k/) | [Java](src/greedy/findMinFibonacciNumbers/FindMinFibonacciNumbers.java) |Medium|
 |1438| [Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit](https://leetcode-cn.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | [Java](src/array/longestSubarray/LongestSubarray.java) |Easy|
