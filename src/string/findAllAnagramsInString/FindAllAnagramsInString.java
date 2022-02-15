@@ -1,6 +1,7 @@
 package string.findAllAnagramsInString;
 
 import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.List;
 
 /**
@@ -54,5 +55,34 @@ public class FindAllAnagramsInString {
             if (right - left == p.length() && hash[s.charAt(left++) - 'a']++ >= 0) count++;
         }
         return res;
+    }
+
+
+    public List<Integer> findAnagrams_2(String s, String p) {
+        int [] cnt1 = new int[26];
+        int [] cnt2 = new int[26];
+        int m = s.length(), n = p.length();
+        for (int i = 0; i < n; i++) {
+            cnt1[s.charAt(i) - 'a']++;
+            cnt2[p.charAt(i) - 'a']++;
+        }
+        List<Integer> res = new ArrayList<>();
+        if (Arrays.equals(cnt1, cnt2)) {
+            res.add(0);
+        }
+
+        for (int i = n; i < m; i++) {
+            int x = s.charAt(i) - 'a', y = s.charAt(i - n) - 'a';
+            cnt1[x]++;
+            cnt1[y]--;
+            if (Arrays.equals(cnt1, cnt2)) {
+                res.add(i - n + 1);
+            }
+        }
+        return res;
+    }
+
+    public static void main(String[] args) {
+        System.out.println(new FindAllAnagramsInString().findAnagrams_2("baa", "aa"));
     }
 }
