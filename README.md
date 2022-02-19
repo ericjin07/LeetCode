@@ -210,6 +210,7 @@
 |1051| [Height Checker](https://leetcode.com/problems/height-checker/) | [Java](src/array/heightChecker/HeightChecker.java) |Easy|
 |1052| [Grumpy Bookstore Owner](https://leetcode-cn.com/problems/grumpy-bookstore-owner/) | [Java](src/array/grumpyBookstoreOwner/GrumpyBookstoreOwner.java) |Medium|
 |1089| [Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros/) | [Java](src/com/eric/DuplicateZeros.java) |Easy|
+|1091| [Shortest Path in Binary Matrix](https://leetcode-cn.com/problems/shortest-path-in-binary-matrix/) | [Java](src/tree/shortestPathInBinaryMatrix/ShortestPathInBinaryMatrix.java) |Medium|
 |1094| [Car Pooling](https://leetcode.com/problems/car-pooling/) | [Java](src/greedy/carPooling/CarPooling.java) |Medium|
 |1122| [Relative Sort Array](https://leetcode.com/problems/relative-sort-array/) | [Java](src/com/eric/RelativeSortArray.java) |Easy|
 |1160| [Find Words That Can Be Formed by Characters](https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/) | [Java](src/com/eric/FindWordsThatCanBeFormedByCharacters.java) |Easy|
