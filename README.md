@@ -152,6 +152,7 @@
 |561| [Array Partition I](https://leetcode.com/problems/array-partition-i/) | [Java](src/array/arrayPartition_1/ArrayPartition_1.java) |Easy|
 |566| [Reshape the Matrix](https://leetcode-cn.com/problems/reshape-the-matrix/) | [Java](src/array/reshapetheMatrix/ReshapetheMatrix.java) |Easy|
 |567| [Permutation in String](https://leetcode.com/problems/permutation-in-string/) | [Java](src/string/permutationInString/PermutationInString.java) |Medium|
+|572| [Subtree of Another Tree](https://leetcode-cn.com/problems/subtree-of-another-tree/) | [Java](src/tree/subtreeOfAnotherTree) |Medium|
 |581| [Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/) | [Java](src/array/shortestUnsortedContinuousSubarray/ShortestUnsortedContinuousSubarray.java) |Easy|
 |605| [Can Place Flowers](https://leetcode.com/problems/can-place-flowers/) | [Java](src/array/canPlaceFlowers/CanPlaceFlowers.java) |Easy|
 |617| [Merge Two Binary Trees](https://leetcode-cn.com/problems/merge-two-binary-trees/) | [Java](src/tree/mergeTwoBinaryTrees/MergeTwoBinaryTrees.java) |Easy|
