@@ -30,4 +30,23 @@ public class Subsets2 {
             used[i] = false;
         }
     }
+
+
+    public List<List<Integer>> subsetsWithDup_2(int[] nums) {
+        Arrays.sort(nums);
+        backtracking(nums, 0, new ArrayList<Integer>());
+        return res;
+    }
+
+    private void backtracking(int[] nums, int start, List<Integer> list) {
+        res.add(new ArrayList<>(list));
+        int prev = -11; //
+        for (int i = start; i < nums.length; i++) {
+            if (prev == nums[i]) continue;  //if prev delete one is same as this one, skip it
+            list.add(nums[i]);
+            backtracking(nums, i+1, list);
+            prev = list.get(list.size() - 1); //get the previous delete one
+            list.remove(list.size() - 1);
+        }
+    }
 }
