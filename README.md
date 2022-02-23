@@ -27,6 +27,7 @@
 |35| [Search Insert Position](https://leetcode.com/problems/search-insert-position/description/) | [Java](src/array/searchInsertPosition/SearchInsertPosition.java) |Easy|
 |38| [Count and Say](https://leetcode.com/problems/count-and-say/description/) | [Java](src/string/countAndSay/CountAndSay.java) |Easy|
 |39| [Combination Sum](https://leetcode-cn.com/problems/combination-sum/) | [Java](src/backtracking/combinationSum/CombinationSum.java) |Medium|
+|40| [Combination Sum II](https://leetcode-cn.com/problems/combination-sum-ii/) | [Java](src/backtracking/combinationSum2/CombinationSum2.java) |Medium|
 |46| [Permutations](https://leetcode-cn.com/problems/permutations/) | [Java](src/backtracking/permutations/Permutations.java) |Medium|
 |47| [Permutations II](https://leetcode-cn.com/problems/permutations-ii/) | [Java](src/backtracking/permutations2/Permutations2.java) |Medium|
 |53| [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/) | [Java](src/array/maximumSubarray/MaximumSubarray.java) |Easy|
