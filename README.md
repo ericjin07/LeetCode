@@ -32,6 +32,7 @@
 |47| [Permutations II](https://leetcode-cn.com/problems/permutations-ii/) | [Java](src/backtracking/permutations2/Permutations2.java) |Medium|
 |53| [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/) | [Java](src/array/maximumSubarray/MaximumSubarray.java) |Easy|
 |54| [Spiral Matrix](https://leetcode-cn.com/problems/spiral-matrix/) | [Java](src/array/spiralMatrix/SpiralMatrix.java) |Medium|
+|55| [Jump Game](https://leetcode-cn.com/problems/jump-game/) | [Java](src/dynamicProgram/jumpGame/JumpGame.java) |Medium|
 |58| [Length of Last Word](https://leetcode.com/problems/length-of-last-word/description/) | [Java](src/string/lengthOfLastWord/LengthOfLastWord.java) |Easy|
 |61| [Rotate List](https://leetcode-cn.com/problems/rotate-list/) | [Java](src/linkedList/rotateList/RotateList.java) |Medium|
 |66| [Plus One](https://leetcode.com/problems/plus-one/description/) | [Java](src/array/plusOne/PlusOne.java) |Easy|
