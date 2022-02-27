@@ -38,6 +38,7 @@
 |55| [Jump Game](https://leetcode-cn.com/problems/jump-game/) | [Java](src/dynamicProgram/jumpGame/JumpGame.java) |Medium|
 |58| [Length of Last Word](https://leetcode.com/problems/length-of-last-word/description/) | [Java](src/string/lengthOfLastWord/LengthOfLastWord.java) |Easy|
 |61| [Rotate List](https://leetcode-cn.com/problems/rotate-list/) | [Java](src/linkedList/rotateList/RotateList.java) |Medium|
+|62| [Unique Paths](https://leetcode-cn.com/problems/unique-paths/) | [Java](src/dynamicProgram/uniquePaths/UniquePaths.java) |Medium|
 |66| [Plus One](https://leetcode.com/problems/plus-one/description/) | [Java](src/array/plusOne/PlusOne.java) |Easy|
 |67| [Add Binary](https://leetcode.com/problems/add-binary/description/) | [Java](src/string/addbinary/AddBinary.java) |Easy|
 |69| [Sqrt(x)](https://leetcode.com/problems/sqrtx/description/) | [Java](src/math/sqrtofx/SqrtOfX.java) |Easy|
