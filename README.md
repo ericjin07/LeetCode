@@ -20,6 +20,7 @@
 |19| [Remove Nth Node From End of List](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/) | [Java](src/linkedList/removeNthFromEnd/RemoveNthFromEnd.java) |Medium|
 |20| [valid parentheses](https://leetcode.com/problems/valid-parentheses/description/) | [Java](src/stack/validParenthese/ValidParentheses.java) |Easy|
 |21| [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/) | [Java](src/linkedList/mergeTwoSortedLists/MergeTwoSortedLists.java) |Easy|
+|22| [Generate Parentheses](https://leetcode-cn.com/problems/generate-parentheses/) | [Java](src/backtracking/generateParentheses/GenerateParentheses.java) |Medium|
 |26| [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/) | [Java](src/array/removeDuplicates/RemoveDuplicates.java) |Easy|
 |27| [Remove Element](https://leetcode.com/problems/remove-element/description/) | [Java](src/array/removeElement/RemoveElement.java) |Easy|
 |28| [Implement Str](https://leetcode.com/problems/implement-strstr/description/) | [Java](src/string/implementStrStr/ImplementStr.java) |Easy|
