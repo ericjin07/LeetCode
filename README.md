@@ -49,6 +49,7 @@
 |76| [Minimum Window Substring](https://leetcode-cn.com/problems/minimum-window-substring/) | [Java](src/string/minimumWindowSubstring/MinimumWindowSubstring.java) |Hard|
 |77| [Combinations](https://leetcode-cn.com/problems/combinations/) | [Java](src/backtracking/combinations/Combinations.java) |Medium|
 |78| [Subsets](https://leetcode-cn.com/problems/subsets/) | [Java](src/backtracking/subsets/Subsets.java) |Medium|
+|79| [Word Search](https://leetcode-cn.com/problems/word-search/) | [Java](src/backtracking/wordSearch/WordSearch.java) |Medium|
 |80| [Remove Duplicates from Sorted Array II](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array-ii/) | [Java](src/array/removeDuplicatesSortedArrayII/RemoveDuplicatesSortedArrayII.java) |Medium|
 |81| [Search in Rotated Sorted Array II](https://leetcode-cn.com/problems/search-in-rotated-sorted-array-ii/) | [Java](src/array/searchRotatedSortedArrayII/SearchRotatedSortedArrayII.java) |Medium|
 |82| [Remove Duplicates from Sorted List II](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list-ii/) | [Java](src/linkedList/removeDuplicatesfromSortedList_2/RemoveDuplicatesfromSortedList_2.java) |Medium|
