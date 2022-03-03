@@ -137,6 +137,7 @@
 |395| [Longest Substring with At Least K Repeating Characterse](https://leetcode-cn.com/problems/longest-substring-with-at-least-k-repeating-characters/) | [Java](src/string/longestSubstringwithAtLeastKRepeatingCharacters) |Medium|
 |402| [Remove K Digits](https://leetcode.com/problems/remove-k-digits/) | [Java](src/string/removeKDigits/RemoveKDigits.java) |Medium|
 |406| [Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height/) | [Java](src/array/queueReconstructionbyHeight/QueueReconstructionByHeight.java) |Medium|
+|413| [Arithmetic Slices](https://leetcode-cn.com/problems/arithmetic-slices/) | [Java](src/dynamicProgram/arithmeticSlices) |Medium|
 |414| [Third Maximum Number](https://leetcode.com/problems/third-maximum-number/) | [Java](src/array/thirdMaximumNumber/ThirdMaximumNumber.java) |Easy|
 |435| [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/) | [Java](src/greedy/nonOverlappingIntervals/NonOverlappingIntervals.java) |Medium|
 |438| [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/) | [Java](src/string/findAllAnagramsInString/FindAllAnagramsInString.java) |Medium|
@@ -169,6 +170,7 @@
 |605| [Can Place Flowers](https://leetcode.com/problems/can-place-flowers/) | [Java](src/array/canPlaceFlowers/CanPlaceFlowers.java) |Easy|
 |617| [Merge Two Binary Trees](https://leetcode-cn.com/problems/merge-two-binary-trees/) | [Java](src/tree/mergeTwoBinaryTrees/MergeTwoBinaryTrees.java) |Easy|
 |665| [Non-decreasing Array](https://leetcode-cn.com/problems/non-decreasing-array/) | [Java](src/array/nonDecreasingArray/NonDecreasingArray.java) |Medium|
+|673| [Number of Longest Increasing Subsequence](https://leetcode-cn.com/problems/number-of-longest-increasing-subsequence/) | [Java](src/dynamicProgram/findNumberOfLIS/FindNumberOfLIS.java) |Medium|
 |695| [Max Area of Island](https://leetcode-cn.com/problems/max-area-of-island/) | [Java](src/graph/maxAreaOfIsland/MaxAreaOfIsland.java) |Medium|
 |697| [Degree of an Array](https://leetcode-cn.com/problems/degree-of-an-array/) | [Java](src/array/degreeOfAnArray/DegreeOfAnArray.java) |Easy|
 |700| [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/) | [Java](src/tree/searchInBinarySearchTree/SearchinaBinarySearchTree.java) |Easy|
