@@ -120,8 +120,9 @@
 |268| [Missing Number](https://leetcode.com/problems/missing-number/) | [Java](src/array/MissingNumber/MissingNumber.java) |Easy|
 |278| [First Bad Version](https://leetcode.com/problems/first-bad-version/) | [Java](src/com/eric/firstBadVersion/FirstBadVersion.java) |Easy|
 |283| [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [Java](src/array/moveZeroes/MoveZeroes.java) |Easy|
+|300| [Longest Increasing Subsequence](https://leetcode-cn.com/problems/longest-increasing-subsequence/) | [Java](src/dynamicProgram/longestIncreasingSubsequence/LongestIncreasingSubsequence.java) |Medium|
 |303| [Range Sum Query - Immutable](https://leetcode-cn.com/problems/range-sum-query-immutable/) | [Java](src/dynamicProgram/rangeSumQuery/RangeSumQuery.java) |Easy|
-|303| [Range Sum Query 2D - Immutable](https://leetcode-cn.com/problems/range-sum-query-2d-immutable/) | [Java](src/dynamicProgram/rangeSumQuery2dImmutable/RangeSumQuery2dImmutable.java) |Medium|
+|304| [Range Sum Query 2D - Immutable](https://leetcode-cn.com/problems/range-sum-query-2d-immutable/) | [Java](src/dynamicProgram/rangeSumQuery2dImmutable/RangeSumQuery2dImmutable.java) |Medium|
 |328| [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/) | [Java](src/linkedList/oddEvenList/OddEvenList.java) |Medium|
 |331| [Verify Preorder Serialization of a Binary Tree](https://leetcode-cn.com/problems/verify-preorder-serialization-of-a-binary-tree/) | [Java](src/stack/verifyPreorderSerializationBinaryTree/VerifyPreorderSerializationBinaryTree.java) |Medium|
 |338| [Counting Bits](https://leetcode.com/problems/counting-bits/) | [Java](src/dynamicProgram/countingBits) |Medium|
