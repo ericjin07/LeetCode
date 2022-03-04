@@ -115,6 +115,7 @@
 |232| [Implement Queue using Stacks](https://leetcode-cn.com/problems/implement-queue-using-stacks/) | [Java](src/stack/implementQueueUsingStack/MyQueue.java) |Easy|
 |237| [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) | [Java](src/linkedList/deleteNode/DeleteNode.java) |Easy|
 |252| [Meeting Rooms](https://leetcode.com/problems/meeting-rooms/) | [Java](src/greedy/meetingRoom/MeetingRoom.java) |Easy|
+|258| [Add Digits](https://leetcode-cn.com/problems/add-digits/) | [Java](src/greedy/meetingRoom/MeetingRoom.java) |Easy|
 |263| [Ugly Number](https://leetcode-cn.com/problems/ugly-number/) | [Java](src/math/uglyNumber/UglyNumber.java) |Easy|
 |264| [Ugly Number II](https://leetcode-cn.com/problems/ugly-number-ii/) | [Java](src/math/uglyNumber2/UglyNumber2.java) |Medium|
 |268| [Missing Number](https://leetcode.com/problems/missing-number/) | [Java](src/array/MissingNumber/MissingNumber.java) |Easy|
