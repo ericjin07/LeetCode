@@ -246,6 +246,7 @@
 |1468| [XOR Operation in an Array](https://leetcode-cn.com/problems/xor-operation-in-an-array/) | [Java](src/math/XorOperationArray/XorOperation.java) |Easy|
 |1603| [Design Parking System](https://leetcode-cn.com/problems/design-parking-system/) | [Java](src/design/parkingSystem/ParkingSystem.java) |Easy|
 |2006| [Count Number of Pairs With Absolute Difference K](https://leetcode-cn.com/problems/count-number-of-pairs-with-absolute-difference-k/) | [Java](src/array/countKDifference/CountKDifference.java) |Easy|
+|2055| [Plates Between Candles](https://leetcode-cn.com/problems/plates-between-candles/) | [Java](src/array/countKDifference/CountKDifference.java) |Easy|
 |2104| [Sum of Subarray Ranges](https://leetcode-cn.com/problems/sum-of-subarray-ranges/) | [Java](src/array/subArrayRanges/SubArrayRanges.java) |Medium|
 
 ### Concurrency
