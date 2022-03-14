@@ -169,6 +169,7 @@
 |567| [Permutation in String](https://leetcode.com/problems/permutation-in-string/) | [Java](src/string/permutationInString/PermutationInString.java) |Medium|
 |572| [Subtree of Another Tree](https://leetcode-cn.com/problems/subtree-of-another-tree/) | [Java](src/tree/subtreeOfAnotherTree) |Medium|
 |581| [Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/) | [Java](src/array/shortestUnsortedContinuousSubarray/ShortestUnsortedContinuousSubarray.java) |Easy|
+|599| [Minimum Index Sum of Two Lists](https://leetcode-cn.com/problems/minimum-index-sum-of-two-lists/) | [Java](src/hashtable/minimumIndexSumOfTwoLists/MinimumIndexSumOfTwoLists.java) |Easy|
 |605| [Can Place Flowers](https://leetcode.com/problems/can-place-flowers/) | [Java](src/array/canPlaceFlowers/CanPlaceFlowers.java) |Easy|
 |617| [Merge Two Binary Trees](https://leetcode-cn.com/problems/merge-two-binary-trees/) | [Java](src/tree/mergeTwoBinaryTrees/MergeTwoBinaryTrees.java) |Easy|
 |665| [Non-decreasing Array](https://leetcode-cn.com/problems/non-decreasing-array/) | [Java](src/array/nonDecreasingArray/NonDecreasingArray.java) |Medium|
