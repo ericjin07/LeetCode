@@ -250,6 +250,12 @@
 |2055| [Plates Between Candles](https://leetcode-cn.com/problems/plates-between-candles/) | [Java](src/array/countKDifference/CountKDifference.java) |Easy|
 |2104| [Sum of Subarray Ranges](https://leetcode-cn.com/problems/sum-of-subarray-ranges/) | [Java](src/array/subArrayRanges/SubArrayRanges.java) |Medium|
 
+### 剑指Offer
+| #  | Title | Solution | Difficulty|
+|:--:|:-----|:--------:|:---------:|
+|09| [用两个栈实现队列](https://leetcode-cn.com/problems/yong-liang-ge-zhan-shi-xian-dui-lie-lcof/) | [Java](src/stack/cQueue/CQueue.java) |Easy|
+
+
 ### Concurrency
 | #  | Title | Solution | Difficulty|
 |:--:|:-----|:--------:|:---------:|
