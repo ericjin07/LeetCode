@@ -254,7 +254,7 @@
 | #  | Title | Solution | Difficulty|
 |:--:|:-----|:--------:|:---------:|
 |09| [用两个栈实现队列](https://leetcode-cn.com/problems/yong-liang-ge-zhan-shi-xian-dui-lie-lcof/) | [Java](src/stack/cQueue/CQueue.java) |Easy|
-
+|58-II| [左旋转字符串](https://leetcode-cn.com/problems/zuo-xuan-zhuan-zi-fu-chuan-lcof/) | [Java](src/string/reverseLeftWords/ReverseLeftWords.java) |Easy|
 
 ### Concurrency
 | #  | Title | Solution | Difficulty|
